@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.38573934"
-     inkscape:cx="654.58711"
-     inkscape:cy="274.79697"
+     inkscape:zoom="0.77147868"
+     inkscape:cx="383.03068"
+     inkscape:cy="359.05075"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="3840"
@@ -5367,7 +5367,10 @@ Hn9StevUv2flR0dvV79+/VWnbgP5VaqqR5q30sfjPtW5c+fuel1jP/xID5SpoAP7D6S7fffuf/Rg
        id="image190"
        x="-7.1054274e-15"
        y="-53.691406"
-       style="filter:url(#filter274)" /><image
+       style="filter:url(#filter274)"
+       inkscape:export-filename="1.png"
+       inkscape:export-xdpi="202.73885"
+       inkscape:export-ydpi="202.73885" /><image
        width="200.45493"
        height="112.7559"
        preserveAspectRatio="none"
@@ -10957,7 +10960,10 @@ UgAAAABJRU5ErkJggg==
        id="image202"
        x="7.1054274e-15"
        y="59.064491"
-       style="filter:url(#filter278)" /><image
+       style="filter:url(#filter278)"
+       inkscape:export-filename="2.png"
+       inkscape:export-xdpi="202.73885"
+       inkscape:export-ydpi="202.73885" /><image
        width="200.45493"
        height="112.7559"
        preserveAspectRatio="none"
@@ -15977,4 +15983,7 @@ iObi/wET3F+qaFeQjgAAAABJRU5ErkJggg==
        id="image214"
        x="0"
        y="171.82039"
-       style="filter:url(#filter282)" /></g></svg>
+       style="filter:url(#filter282)"
+       inkscape:export-filename="3.png"
+       inkscape:export-xdpi="202.73885"
+       inkscape:export-ydpi="202.73885" /></g></svg>
