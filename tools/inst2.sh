@@ -84,6 +84,7 @@ apt-get install -y espeak-ng
 apt-get install -y callibre
 apt-get install -y iotop
 apt-get install -y xxd
+apt-get install -y pavucontrol
 apt-get install -y rdfind
 apt-get install -y rsync
 apt-get install -y asunder
