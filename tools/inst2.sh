@@ -90,10 +90,28 @@ apt-get install -y asunder
 apt-get install -y brasero
 apt-get install -y mdadm
 apt-get install -y smarttools
+apt-get install -y jigdo-file
 
 
 
 
+
+apt-get install -y xdotool wmctrl
+
+
+apt-get install cups-client -y
+apt-get install tesseract-ocr-eng tesseract-ocr-deu -y
+
+
+if YESNO "wine, wine64 und wine32:i386 installieren ???"
+then
+
+apt-get install -y wine wine64
+
+dpkg --add-architecture i386 && apt-get update &&
+apt-get install wine32:i386
+
+fi
 
 apt-get install -y xdotool wmctrl
 
@@ -117,7 +135,7 @@ nvidia-detect
 #==============================================================================
 if YESNO "install nvidia-tesla-470-driver ???"
 then
-  apt-get install nvidia-tesla-470-driver
+apt-get install nvidia-tesla-470-driver
 fi
 
 kvm-ok
