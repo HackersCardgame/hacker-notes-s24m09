@@ -91,6 +91,11 @@ apt-get install -y brasero
 apt-get install -y mdadm
 apt-get install -y smarttools
 apt-get install -y jigdo-file
+apt-get install -y wodim
+wodim --devices
+
+# sudo wodim dev=/dev/sr0 -v -data ...iso
+
 
 
 
@@ -106,10 +111,15 @@ apt-get install tesseract-ocr-eng tesseract-ocr-deu -y
 if YESNO "wine, wine64 und wine32:i386 installieren ???"
 then
 
-apt-get install -y wine wine64
+apt-get install -y wine
+apt-get install -y wine64
+apt-get install -y winetricks
 
-dpkg --add-architecture i386 && apt-get update &&
-apt-get install wine32:i386
+echo dann \"winetricks d3dx9\" und \"winetricks vcrun2010\" eingeben mit dem Benutzer
+
+dpkg --add-architecture i386
+apt-get update
+	apt-get install wine32:i386
 
 fi
 
