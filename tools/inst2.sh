@@ -179,3 +179,5 @@ echo "printer installieren"
 echo ""
 echo "printer installieren"
 echo ""
+apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
+apt-get install espeak
