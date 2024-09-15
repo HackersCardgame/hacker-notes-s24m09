@@ -1,6 +1,6 @@
 #!/bin/bash
 
-t=$(cat $1|tr '\n' ' ')
+t=$(cat $1|tr '\n' ' '| tr '=' ' ')
 
 #echo $t
 
