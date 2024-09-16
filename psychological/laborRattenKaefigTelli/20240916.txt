@@ -1,0 +1,69 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 16 04:41:31 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Neuer i9 Computer
+* Beweiskette intakt
+* alle Siegel kontrolliert
+  - Mainboard
+  - CPU
+  - RAM
+* Mainboard ohne WIFI
+* USB Netzwerkkarte statt interne Netzwerkkarte
+  - Falls der NIC Firmware BLOB Backdoors drin hätte, dann hätte der NIC Zugriff auf das ganze PCIe, ev. sogar DMA
+  - Selbst mit BUS-Encryption und SGX allenfalls problematisch
+  
+Dennoch scheint ein Sabotage Group Policy Object auf den Rechner geladen worden zu sein. Ich selber hab weder Fehler in OpSEC gemacht, noch habe ich die Beweiskette nicht eingehalten.
+
+SCHLUSSFOLGERUNG:
+Intel PC's haben ab Fabrik Hardware Backdoors drin, vermutlich mit Funk-Kanal und militärisch, somit wäre es mit Frequenz-Hopping was bei militärs seit mindestens 1990 (SE235) standard ist
+
+
+                                                  TOPSECRET
+================================================= Militärsiches
+   |     |       |        |                       Backdoor
+   |     |       |        |                       Netzwerk
+   |     |       |        |                       kein Zugriff
+   |     |       |        |                       durch Polizei
+   |     |       |        |                
+---|-----|-------|--------|---------------------- Mein Netzwerk
+  ||     ||      ||       ||         |         |  ev. Zugriff
+  ||     ||      ||       ||         X         |  durch Polizei
+  ||     ||      ||       ||         |         |
+  v|     |v      |v       |v         v         v
+ __v     vO      V__      v__       ___       ___
+|   |   --|\    |   |    |   |     |   |     |   |
+|   |  /  | \   |   |    |   |     |   |     |   |
+|   |    / \    |   |    |   |     |   |     |   |
+ ___    /   \    ___      ___       ___       ___
+ PC1   Neura-    PC2     Cell-      PC3       PC4
+       Link              Phone1
+
+
+Somit war der Befehl der Offiziere Urs Blum / Simon Härdi 2013
+mir ungesehen Pädophilie auf den Computer zu laden, dann
+sind die Herren Offiziere zur Polizei gegangen und haben einen
+auf Gut-Freund gemacht "Wir haben auf Marc jr Landolts Computer
+Pädokriminelle inhalte gefunden (ungehört: die wir über
+das TOPSECRET militärische Backdoor Netzwerk selber drauf
+geladen haben damit Marc jr nicht zu den Morden welche
+die Offiziere Urs Blum und Simon Härdi begangen haben aussagen kann, Glaubwürdigkeit eines angeblich Pädokriminellen)"
+
+Und jetzt wo die Richtier und Polizisten das wissen, und weitere
+2200 Sklaven so teilweise ermordet haben sind die logischerweise
+auf mich sauer und aggressiv weil ich das einigermassen
+beweisen kann. Würde zwar nicht reichen für einen Rechtsfall
+gegen z.B. Intel oder Mainboard hersteller, aber in der Schweiz
+gilt "in dubio pro reo" und um all diese 2200 Fälle aufzuarbeiten
+
+"KÖNNTE mit der Beweiskette etwas [1] manipuliert worden sein"
+
+reicht es allemal
+
+[1] UNBEKANNT: ersetzt "manipuliert" durch "schief gelaufen"
+
+URS BLUM [BETONT LAUT]: Wenn es nur einen toten gab deswegen ...
+... also FALLS es nur einen Suizid oder Amoklauf gab deswegen
+ist das ganze Poliziei-Team am Tod von unschuldigen Menschen
+beteiligt
+
