@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="WachTherapieIstEinEuphemismusFuerWeisseFolter-0.0.3.svg"
+   sodipodi:docname="WachTherapieIstEinEuphemismusFuerWeisseFolter-0.0.4.svg"
    inkscape:export-filename="../psychological/WachTherapieIstEinEuphemismusFuerWeisseFolter-0.0.3.png"
    inkscape:export-xdpi="136.83502"
    inkscape:export-ydpi="136.83502"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.1820712"
-     inkscape:cx="507.54531"
-     inkscape:cy="697.96073"
+     inkscape:zoom="1.0910356"
+     inkscape:cx="-34.371014"
+     inkscape:cy="527.93878"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="3840"
@@ -228,6 +228,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#aaeeff;stroke:#ff0000;stroke-width:1.52189;stroke-dasharray:none"
+       id="rect15846"
+       width="288.29648"
+       height="70.244919"
+       x="5.989675"
+       y="136.58154"
+       inkscape:export-filename="../psychological/WachTherapieIstEinEuphemismusFuerWeisseFolter-0.0.3.png"
+       inkscape:export-xdpi="139.99481"
+       inkscape:export-ydpi="139.99481" />
     <rect
        style="fill:#aaeeff;stroke:#00ccff;stroke-width:2;stroke-dasharray:none"
        id="rect5629"
@@ -455,40 +465,40 @@
          id="tspan3459">       und ungestört Dinge reparieren welche kaputt gemacht wurden</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.736189;stroke-dasharray:none;marker-start:url(#Stop-7);marker-end:url(#Arrow2-9)"
-       d="m 119.99978,147.65529 v 20.78042"
+       d="m 39.566472,144.48027 v 20.78042"
        id="path3453-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 127.17754,177.51534 v -1.46036"
+       d="m 46.74425,174.34032 v -1.46036"
        id="path3453-2-2"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:2.3374px;fill:#000000;stroke:#000000;stroke-width:1.47238;stroke-dasharray:none"
-       x="119.16045"
-       y="147.46867"
+       x="38.727066"
+       y="143.76456"
        id="text3457-6"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="119.16045"
-         y="147.46867"
+         x="38.727066"
+         y="143.76456"
          id="tspan3459-7"><tspan
    style="font-weight:bold;stroke-width:1.47238"
    id="tspan4767-8">01:00</tspan>: Aufstehen geklappt</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:2.3374px;fill:#000000;stroke:#000000;stroke-width:1.47238;stroke-dasharray:none"
-       x="155.02592"
-       y="157.0799"
+       x="74.592567"
+       y="156.02158"
        id="text3457-6-9"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="155.02592"
-         y="157.0799"
+         x="74.592567"
+         y="156.02158"
          id="tspan3459-7-2"><tspan
    style="font-weight:bold;stroke-width:1.47238"
-   id="tspan4767-8-0">02:00</tspan>: dann aber ab einigermassen Produktiv</tspan></text>
+   id="tspan4767-8-0">02:00</tspan>: dann aber danach bin ich einigermassen produktiv</tspan></text>
     <path
        style="fill:#808000;stroke:#ff0000;stroke-width:1.77237;stroke-dasharray:none;marker-start:url(#Stop-0);marker-end:url(#Stop-0)"
        d="m 119.73908,83.053523 h 27.33478"
@@ -533,12 +543,12 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#000000;stroke:#000000;stroke-width:1.47238;stroke-dasharray:none;marker-end:url(#EmptyTriangleIn-5)"
-       d="M 24.139333,173.68404 H 283.49841"
+       d="M 19.376836,170.50902 H 278.73594"
        id="path113-1"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#00ff00;stroke:#0000ff;stroke-width:1.77237;stroke-dasharray:none;marker-start:url(#Stop-0-2);marker-end:url(#Stop-0-2)"
-       d="m 167.10865,173.68404 h 108.4587"
+       d="M 74.504468,170.50902 H 182.96318"
        id="path5041-2"
        sodipodi:nodetypes="cc" />
     <text
@@ -586,184 +596,206 @@
        r="26.417793" />
     <path
        style="fill:#00ff00;stroke:#ff0000;stroke-width:1.77237;stroke-dasharray:none;marker-start:url(#Stop-0-2);marker-end:url(#Stop-0-2)"
-       d="m 124.24615,173.68404 h 29.57272"
+       d="m 43.812851,170.50902 h 29.57275"
        id="path13961"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.736189;stroke-dasharray:none;marker-start:url(#Stop-7);marker-end:url(#Arrow2-9)"
-       d="m 156.14581,160.5403 0,8.50575"
+       d="m 75.712538,157.36528 v 8.50575"
        id="path14075"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 128.35347,177.51534 v -1.46036"
+       d="m 47.920183,174.34032 v -1.46036"
        id="path14354"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 129.52939,177.51534 v -1.46036"
+       d="m 49.096106,174.34032 v -1.46036"
        id="path14356"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 130.70532,177.51534 v -1.46036"
+       d="m 50.272039,174.34032 v -1.46036"
        id="path14358"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 131.88125,177.51534 v -1.46036"
+       d="m 51.447969,174.34032 v -1.46036"
        id="path14360"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 133.05717,177.51534 v -1.46036"
+       d="m 52.623889,174.34032 v -1.46036"
        id="path14362"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 134.2331,177.51534 v -1.46036"
+       d="m 53.799816,174.34032 v -1.46036"
        id="path14364"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 135.40903,177.51534 v -1.46036"
+       d="m 54.975749,174.34032 v -1.46036"
        id="path14366"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 136.58495,177.51534 v -1.46036"
+       d="m 56.151669,174.34032 v -1.46036"
        id="path14368"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 137.76088,177.51534 v -1.46036"
+       d="m 57.327599,174.34032 v -1.46036"
        id="path14370"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 138.93681,177.51534 v -1.46036"
+       d="m 58.503529,174.34032 v -1.46036"
        id="path14372"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 140.11273,177.51534 v -1.46036"
+       d="m 59.679449,174.34032 v -1.46036"
        id="path14374"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 141.28866,177.51534 v -1.46036"
+       d="m 60.855379,174.34032 v -1.46036"
        id="path14376"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 142.46459,177.51534 v -1.46036"
+       d="m 62.031312,174.34032 v -1.46036"
        id="path14378"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 143.64051,177.51534 v -1.46036"
+       d="m 63.207235,174.34032 v -1.46036"
        id="path14380"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 144.81644,177.51534 v -1.46036"
+       d="m 64.383165,174.34032 v -1.46036"
        id="path14382"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 145.99237,177.51534 v -1.46036"
+       d="m 65.559095,174.34032 v -1.46036"
        id="path14384"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 147.16829,177.51534 v -1.46036"
+       d="m 66.735018,174.34032 v -1.46036"
        id="path14386"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.144808;stroke-dasharray:none;marker-start:url(#Stop-7-3);marker-end:url(#Arrow2-9-5)"
-       d="m 148.34422,177.51534 v -1.46036"
+       d="m 67.910948,174.34032 v -1.46036"
        id="path14388"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:2.3374px;fill:#000000;stroke:#000000;stroke-width:1.47238;stroke-dasharray:none"
-       x="126.5552"
-       y="180.05911"
+       x="46.12178"
+       y="176.88416"
        id="text3457-6-2"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="180.05911"
+         x="46.12178"
+         y="176.88416"
          id="tspan3459-7-8">Aber nach dem Aufstehen</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="183.03955"
+         x="46.12178"
+         y="179.86459"
          id="tspan14429">alle <tspan
    style="font-weight:bold"
    id="tspan14558">10 Sek</tspan> irgend eine Gemeinheit</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="186.01999"
+         x="46.12178"
+         y="182.84503"
          id="tspan14431">loop </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="189.00044"
+         x="46.12178"
+         y="185.82549"
          id="tspan14743">{</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="191.98088"
-         id="tspan14741">  Random ArrayList&lt;Gemeinhaiten&gt;</tspan><tspan
+         x="46.12178"
+         y="188.80592"
+         id="tspan14741">  Random ArrayList&lt;<tspan
+   style="fill:#ff0000"
+   id="tspan15172">Gemeinhaiten</tspan>&gt;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="194.96132"
+         x="46.12178"
+         y="191.78636"
          id="tspan14747">  Melatonin Metabolismus</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="197.94176"
-         id="tspan14749">  Sprachsample &quot;geh wieder schlafen&quot;</tspan><tspan
+         x="46.12178"
+         y="194.7668"
+         id="tspan14749">  Sprach-Sample &quot;geh wieder schlafen&quot;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="200.9222"
+         x="46.12178"
+         y="197.74724"
          id="tspan14745">}</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="126.5552"
-         y="203.84395"
+         x="46.12178"
+         y="200.66899"
          id="tspan14433" /></text>
     <text
        xml:space="preserve"
        style="font-size:2.3374px;fill:#000000;stroke:#000000;stroke-width:1.47238;stroke-dasharray:none"
-       x="167.20189"
-       y="190.30917"
+       x="114.39526"
+       y="177.27972"
        id="text3457-6-2-7"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="167.20189"
-         y="190.30917"
-         id="tspan3459-7-8-3">Aber nach dem Aufstehen</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="167.20189"
-         y="193.28961"
-         id="tspan14429-6">alle <tspan
-   style="font-weight:bold"
-   id="tspan14558-1">10 Sek</tspan> irgend eine Gemeinheit</tspan><tspan
-         sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="167.20189"
-         y="196.27005"
-         id="tspan14431-2">Random ArrayList&lt;Gemeinhaiten&gt;</tspan><tspan
+         x="114.39526"
+         y="177.27972"
+         id="tspan14431-2">Random ArrayList&lt;<tspan
+   style="fill:#ff0000"
+   id="tspan15280">Gemeinhaiten</tspan>&gt;</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
-         x="167.20189"
-         y="199.1918"
+         x="114.39526"
+         y="180.26016"
+         id="tspan15282">* Selektive Blindheit (nicht das Auge selber sondern Weisses Rauschen auf Elektroden im Sehzentum)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="183.2406"
+         id="tspan15284">  -&gt; dann stolpere ich über irgendwelche Dinge in meiner Wohnung</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="186.22105"
+         id="tspan15286">* Verkrampfung oder induziertes Extrapyramidales von ca [0.3] Sekunden und lasse Etwas fallen</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="189.20149"
+         id="tspan15562">* Verbrenne mir die Finger irgendwo dran</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="192.18193"
+         id="tspan15702">* werde irgendwie abgelenkt und verschütte Kaffee Pulver oder Wasser</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="195.16237"
+         id="tspan15704">* ...</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#000000;stroke:none;stroke-width:1.47238"
+         x="114.39526"
+         y="198.08412"
          id="tspan14433-9" /></text>
   </g>
 </svg>
