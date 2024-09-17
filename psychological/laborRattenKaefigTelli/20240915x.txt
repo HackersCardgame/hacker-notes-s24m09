@@ -2,7 +2,7 @@
 Sun Sep 15 05:36:55 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-.
 
-Hallo Stöffu
+Hallo ${red}Stöffu${default}
 
 Du bist ja mal als ich noch im Rombachtäli gewohnt habe zu mir gekommen, dass ich unbedingt den Film "District 9" schauen solle.
 
