@@ -81,6 +81,7 @@ updatedb
 apt-get install -y apt-file
 apt-file update
 apt-get install -y espeak-ng
+apt-get install -y pavumeter
 apt-get install -y callibre
 apt-get install -y iotop
 apt-get install -y xxd
@@ -181,3 +182,5 @@ echo "printer installieren"
 echo ""
 apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
 apt-get install espeak
+
+fgrep -ri PRUNEPATHS /etc/ 2>/dev/null
