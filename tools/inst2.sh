@@ -96,7 +96,9 @@ apt-get install -y jigdo-file
 apt-get install -y wodim
 wodim --devices
 
-# sudo wodim dev=/dev/sr0 -v -data ...iso
+echo sudo wodim -v -data dev=/dev/sr0  ...iso
+echo sha512 ...iso
+echo "dd if=/dev/sr0 bs=2048 | sha512"
 
 
 
