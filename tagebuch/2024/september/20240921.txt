@@ -32,3 +32,9 @@ hardware remote debugger und irgnd ein typ der das debian trixie ncoh nciht ganz
 Sat Sep 21 00:41:21 CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+kworker (auf usb?) macht 2x 70% CPU, also braucht ca 2 von 6 cores, auch wenn qemu beendet wurde
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sat Sep 21 00:52:04 CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
