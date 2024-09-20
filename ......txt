@@ -1,0 +1,9 @@
+
+=> 20240920b.txt
+=> 20240920b.txt
+=> 20240920b.txt
+
+
+5c9db13e29fc849df1cb036600833459458d04b16a9fe5721b973ac5af977021c8cf6103021aeb321bf7e0cffbd080d0662d479f8766bda6cb18181add213960  -
+marc@debian:~$ curl https://raw.githubusercontent.com/HackersCardgame/hacker-notes-s24m09/refs/heads/main/tagebuch/2024/september/20240920.txt |tee /dev/tty |sha512sum 
+
