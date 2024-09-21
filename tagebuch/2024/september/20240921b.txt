@@ -71,5 +71,5 @@ verwahren, weil sonst werden diese Menschen einfach den nächsten Amokläufer
 produzieren
 
 
-
+EOF, zwecks sha512
 
