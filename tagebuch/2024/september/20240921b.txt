@@ -2,12 +2,17 @@
 Sat Sep 21 04:26:20 CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Nach meiner Notiz [1] wird übermittelt:
+Nach meiner Notiz [1] wird übermittelt: <- DIESER SATZ WURDE WÄHREND DEM MARC JR LANDOLT DEN COMPUTER GESTARTET HAT GEÄNDERT,
 
-Herr Urs Blum geht nicht mit Dominik Brändli ins Bett, sondern Urs Blum mit den Eltern von Dominik Brändli. Dominik Brändli [FORK] hat die [LOCK] mit dem Staatsanwalt Marco Spring und der begangenen Rechtsbeugung durch Dominik Brändli sich, den Staatsanwalt Marco Spring und die Universität Zürich in Verr[r]uf gebracht
+URSPRÜNGLICHER WARTLAUT WAR:
+
+Marc jr Landolt wird mit induzierter Epilepise gezwungen zu protokollieren:
+"Herr Urs Blum geht nicht mit Dominik Brändli ins Bett, sondern Urs Blum mit den Eltern von Dominik Brändli. Dominik Brändli [FORK] hat die [LOCK] mit dem Staatsanwalt Marco Spring und der begangenen Rechtsbeugung durch Dominik Brändli sich, den Staatsanwalt Marco Spring und die Universität Zürich in Verr[r]uf gebracht
 
 [FORK] wurde dazu missbraucht
 [FORK] ...
+
+"
 
 [1] hacker-notes-s24m09/FEDPOL/eroeffungDesKriegesGegenDeutschlandDurchOffiziereDerSchweizerArmee.JPG
 
