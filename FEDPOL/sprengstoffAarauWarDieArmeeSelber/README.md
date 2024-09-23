@@ -99,6 +99,10 @@ besorg dir einfach sprengstoff und waffen und nimm dir was du willst
 
 also die Offiziersausbildung würde bereits in der Familie beginnen und oft wären es vermutlcih Familien mit dem fehlenden Helfergen, also mit einem Gendefekt
 
+Urs Blum/TTS mit such das stöckchen bei den ausländern, dealern:
+Somit kann man VERMUTLICH "den Besitz von Kokain" gleichsetzen mit "dem Besitz von Sprengstoff"
+
+dann das jeweilige Terrornetzwerk von Offizieren der Schweizer Armee nennt sich logischerweise nicht Terrornetzwerk sondern "Offfiziers-Verein Aarau"
 
 Mon Sep 23 13:07:23 CEST 2024
 
