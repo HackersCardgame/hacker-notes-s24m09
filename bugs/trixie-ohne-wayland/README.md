@@ -18,4 +18,6 @@ ist wieder ein Prblem was nicht nur ein problem ist
 * sind es mehrere Fehler gleichzieitig die noch miteinander interagieren wirds mühsamer
 * wird dann aber immer dann wenn man von anderen kleinen pinguinen weiss dass man jetzt zur lösung kommt noch von einem offizier mit military grade hardware backdoor sprengfallen der kleine Pinguin am reparieren oder finden oder isolieren des fehlers gehinder muss man davon ausgehen dass der offizier oder polizist der das sprengt vorsätzlich den möglicherweise autistishcen pinguin sprengen möchte weil der sonst straftaten des offiziers oder polzisiten droht rauszufinden
 
+also ich denke die "netten" älteren alten weissen menschen haben als ich auch fehler finden und beheben konnte welche aus mehreren teilfehlern bestehen irgendwann panik bekommen dass ich dann noch viel mehr rausfinden und dann angefangen proaktiv mit cyberwaffen auf mcih und auf menschen die mir glauben zu schieessen
+
 
