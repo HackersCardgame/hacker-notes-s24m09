@@ -30,5 +30,5 @@ und scheinbar wurde jetzt über mutmasslich den hardware remote debugger die mal
 dann für alle welche das problem auch haben
 
 z.B. unter gnome die tasten "alt f2" drücken, dann r und enter. r ist in xserver / gnome um den xserver neu zustarten
-
+nicht ganz sicher aber das geht dann afaik bei wayland nicht mehr 
 
