@@ -7,3 +7,4 @@ da wuerde man von revictimizing oder suggestiv-bestrafung reden wenn jetzt über
 interessnterweise wurde bei (*) mein xorg in die luft gesprengt vor dem git commit, also FALLS Sonja bachmann wirklcih tod ist waere das ein abgekartetet spiel gegen meinen kelinen bruder und soinia gewesen
 
 auch insassen der neuenburgerstrasse 6 waren somit beteiligt, denn das mit dem trauma vor der waesche machen produziern scheinen die ncith nur mit mir sondenr auch mit sonja gemahct zu haben
+
