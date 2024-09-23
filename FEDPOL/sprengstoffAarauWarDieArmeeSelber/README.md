@@ -93,8 +93,13 @@ Mon Sep 23 12:50:52 CEST 2024
 
 
 
-somit ist es vermutlich Sinnvoll wenn man Urs Blum, Philipp Blum bzw. die Geschwister dauz befragt, ob urs blum dem damals minderjärhigen philipp blum schon beigebracht hat
+somit ist es vermutlich Sinnvoll wenn das FEDPOL Urs Blum, Philipp Blum bzw. die Geschwister dauz befragt, ob urs blum dem damals minderjärhigen philipp blum schon beigebracht hat
 
 besorg dir einfach sprengstoff und waffen und nimm dir was du willst 
+
+also die Offiziersausbildung würde bereits in der Familie beginnen und oft wären es vermutlcih Familien mit dem fehlenden Helfergen, also mit einem Gendefekt
+
+
+Mon Sep 23 13:07:23 CEST 2024
 
 
