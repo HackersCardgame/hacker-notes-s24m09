@@ -20,4 +20,6 @@ ist wieder ein Prblem was nicht nur ein problem ist
 
 also ich denke die "netten" älteren alten weissen menschen haben als ich auch fehler finden und beheben konnte welche aus mehreren teilfehlern bestehen irgendwann panik bekommen dass ich dann noch viel mehr rausfinden und dann angefangen proaktiv mit cyberwaffen auf mcih und auf menschen die mir glauben zu schieessen
 
+also das wäre nicht ein hass der Täter gegen autisten mit inselbegabung informatik das wäre ein hass gegen alle autisten, weil hat ein autist die spezialbegabung CO2 oder Kriminallfälle Puzzels zu lössen würde das auch erklären weshalb die Autismus Früherkennung zur Autismus-Früh-Abschlachtung umfunktionertz wurde, apropos der DUMMEN FRAU am Trialog der Psychiatrie Königsfelden die "Auf Autisten aufpasst" und diese richtig schlecht und diskreditierend bezeichnet und dargestellt hat
+
 
