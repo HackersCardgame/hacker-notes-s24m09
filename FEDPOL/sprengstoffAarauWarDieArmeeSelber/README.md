@@ -106,4 +106,13 @@ dann das jeweilige Terrornetzwerk von Offizieren der Schweizer Armee nennt sich 
 
 Mon Sep 23 13:07:23 CEST 2024
 
+Urs Blum: also das Curling was der Martin Geissmann spielt bedeutet sprengfallen in häuser von anderen Menschen 
+-> pivot element: Urs Blum + Martin Geissman = Pfadfinder Abteilung Adler Aarau
+Martin Geissman ist nicht offiziell Offizier, Martin Geissman wäre ein Offizier als Hippi getarnt für "plausible deniability" somit wären die ältern von den herren schon vor unserer geburt am Archetypen Theorie Pläne am schmieden gewesen
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 23 13:12:17 CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 
