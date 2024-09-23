@@ -22,4 +22,6 @@ also ich denke die "netten" älteren alten weissen menschen haben als ich auch f
 
 also das wäre nicht ein hass der Täter gegen autisten mit inselbegabung informatik das wäre ein hass gegen alle autisten, weil hat ein autist die spezialbegabung CO2 oder Kriminallfälle Puzzels zu lössen würde das auch erklären weshalb die Autismus Früherkennung zur Autismus-Früh-Abschlachtung umfunktionertz wurde, apropos der DUMMEN FRAU am Trialog der Psychiatrie Königsfelden die "Auf Autisten aufpasst" und diese richtig schlecht und diskreditierend bezeichnet und dargestellt hat
 
+aber zurück zum technischen problem, mit mixxx --save-mode no problem so wie es aussieht
+
 
