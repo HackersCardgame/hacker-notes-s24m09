@@ -27,6 +27,8 @@ aber zurück zum technischen problem, mit mixxx --save-mode no problem so wie es
 Mon Sep 23 08:14:56 CEST 2024
 und scheinbar wurde jetzt über mutmasslich den hardware remote debugger die malware angepasst, dass die das auch macht wenn mixxx im --safe-mode ist, also das ziel der geistenskranken militärs der RUAG AG ist, dass man da malware ohne beweise weiterhin als bug betrachten müsste, dann allefnalls sogar auf den frist level support pinguin für nouveau treiber, mixxx oder nvidia grafikkarte beissreflexig würde WENN MAN DOOF wäre
 
+dann für alle welche das problem auch haben
 
+z.B. unter gnome die tasten "alt f2" drücken, dann r und enter. r ist in xserver / gnome um den xserver neu zustarten
 
 
