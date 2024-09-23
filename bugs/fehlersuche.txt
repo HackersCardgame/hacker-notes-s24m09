@@ -1,0 +1,30 @@
+
+
+meine SUBJEKTIVE best practices um Fehler zu finden, egal ob Windows Server oder Linux
+
+
+1| ist es nur ein Fehler, dann ist es einfach eine Normale Fehlersuche
+
+2| sind es mehr als ein Fehler, sind es zwei Normale Fehlersuchen
+
+2+| sind es mehr als ein Fehler, welche aber interagieren miteinander
+
+BEISPIEL:
+* also zB eine falsche Einstellung in der apache2.conf 
++ aber auch noch ein Problem mit dem Apache2 daemon selber 
+
+=> dann wird es mühsam für junge Menschen diese Sorte von Fehler zu finden und zu reparieren
+=> Fehler die miteinander inteargieren und allenfalls sogar im Sinne eines "deadlocks" (Wikipedia Arikel allenfalls lesen) verhindern dass man das System wieder repariert bekommt erfordern dann detailwissen sowohl über die apache2.conf als auch darüber wie man z.B. im Apache2 daemon Dinge repariert oder auch nur im Source Code nachliest weshalb jetzt spezifischer Fehler entsteht
+
+2+|
+3+|
+4+|
+5+|
+6+| also das waren bei mir auf irgend einem Windows Server auch schon 6 so Dinge gleichzeitig die miteinander interagiert haben
+
+--> all diese Dinge bekommt man aber gelöst, ist einfach ein Hürdenlauf, braucht Geduld, Fleiss und Wissen
+
+
+Bei mir ist jetzt aber scheinbar neu dazu gekommen, dass irgendwelche VOLLDEPPEN ähm Offiziere der Schweizer Armee von ihren Vorgesetzten oder von Ihren Mamis Cyber-Waffen im Schiess-Kino beommen haben die dann nicht irgend einem System oder einer Logik folgen, sondern einfach die Offiziere die zum Kompensieren ihres tiefen Selbstwerts weil sie z.B. in Inforamtik überhaupt nichts können ihren Trieb und ihre Geltungssucht an mir als Sklave gegenüber ausleben möchten.
+
+Ab dem Zeitpunkt kann man eigentlich keine komplexen Fehler mehr finden oder reparieren.

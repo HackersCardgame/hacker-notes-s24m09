@@ -1,0 +1,14 @@
+
+
+meine SUBJEKTIVE best practices um Fehler zu finden, egal ob Windows Server oder Linux
+
+
+1| ist es nur ein Fehler, dann ist es einfach eine Normale Fehlersuche
+
+2| sind es mehr als ein Fehler, sind es zwei Normale Fehlersuchen
+
+2+| sind es mehr als ein Fehler, welche aber interagieren miteinander, also zB eine falsche Einstellung in der apache2.conf aber auch noch ein Problem mit dem Apache2 daemon selber dann wird es mühsam
+
+
+
+
