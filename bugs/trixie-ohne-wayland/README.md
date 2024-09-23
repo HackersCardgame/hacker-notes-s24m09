@@ -32,3 +32,9 @@ dann für alle welche das problem auch haben
 z.B. unter gnome die tasten "alt f2" drücken, dann r und enter. r ist in xserver / gnome um den xserver neu zustarten
 nicht ganz sicher aber das geht dann afaik bei wayland nicht mehr 
 
+dann scheint jemand so etwas wie eine spregnfalle oder ein cyber-gewehr zu haben um auf die process kontext tabelle zu schiessen bzw. dort dinge zu lsöchen
+
+und das ist ein userinterface der geisteskranke triebtäter und offizizier benutzt das nicht um informiatk-ziele zu erreichen sondern um meine psyche zu sabotieren bzw "zu theraperien"
+
+
+
