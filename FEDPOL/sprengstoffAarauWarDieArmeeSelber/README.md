@@ -1,6 +1,5 @@
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Mon Sep 23 12:25:32 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 eigentlich war ich bis ca 08:00 am fehlersuche machen in den Nvidia Treibern
 
@@ -18,16 +17,16 @@ Hysterese-Remanenz von SchnellemDenken<->LangsamenDenken
 [1] definition gemäss Daniel Kahnemann (thinking Fast and slow)
 
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:28:02 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 
 sprengfallendrohungen und induziertes ICD10 G40.2 ist somit das was die Aargauer Zeitung vorgelegt hat um menschen davon abzuhalten fehler zu suchen und zu melden und zu reparieren, und wenn das nciht nur für die informatik ist, dann wäre das auch dazu da, dass mordfälle in Aarau nicht augeklärt oder aufgearbeitet würden
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:29:18 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 Zeitlicher Verlauf:
 
@@ -44,9 +43,9 @@ ziel der [$] [UB] alten leute in der telli ist es für die Zürich Versichrung w
 
 [$] [UB] dann sobald das aufgeflogen ist droth urs blum schon weider mit sprengefallendrohungen an
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:39:33 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 Sequenz / Design Pattern:
 1. SprengfallenDrohungen durch Urs Blum und die Zürich Versichrung gegen Marc jr Landolt zeitgleich zu Bohrhammer
@@ -63,9 +62,9 @@ Hochrechnen auf mutmasslich ca 1% der Bevölkerung welche Urs Blum und andere Of
 
 Die AargauerZeitung hat den Zeitungsartikel "Sprengstoff auf Waffenplatz Aarau weggeommen" gedruckt, weil bereits zu viele Offiziere aufgeflogen sind und man ein zusätzliches Traumata brauchte um die Zivil-Bevölkerung einzuschüchtern
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:42:55 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 Zeitungsartikel wie ...
 
@@ -75,9 +74,9 @@ Zeitungsartikel wie ...
 
 ... wäre immer ein indiz dafür dass bereits grössere Teile eines Terrornetzwerks von Menschen mit Offiziers-Titel der Schweizer Armee in dieser Ortschaft aufgeflogen sind
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:44:11 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 also die verschiedenen Terrornetzwerke in der schweiz mit offizierstitel und sprengstoff der schweizer armee müssen schlussenclich zusammen bett, weil wenn dieses konzept VERPETZT ist dann werden lokale udn internationale behörden dort logischerweise mehr fragen stellen
 
@@ -89,7 +88,13 @@ URS BLUM VERRÄT SOMIT: in den meisten städten wo es ein megaritual wie ...
 
 ... haben fehlbare offiziere bereits die Justiz und Polizei-Behörden unterwarndert und sind aufgeflgen
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 Mon Sep 23 12:50:52 CEST 2024
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+somit ist es vermutlich Sinnvoll wenn man Urs Blum, Philipp Blum bzw. die Geschwister dauz befragt, ob urs blum dem damals minderjärhigen philipp blum schon beigebracht hat
+
+besorg dir einfach sprengstoff und waffen und nimm dir was du willst 
+
 
