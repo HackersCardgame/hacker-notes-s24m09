@@ -43,3 +43,10 @@ lxdm geht aber...
 also wenn es selbst bei der polizei faule aeppfel hat dann vermutlich auch unter den debain maintainern oder den gnome developern, man sagt ja "jeder hat seinen preis" aber da muss ich anmerken, dass man vermutlcih viele autisten nicht kaufen kann, weil deren zangsneurose puzzles richtig-korrekt zu loesen ist staerker als alles schmiergeld der welt-erde-planet-wirtschaftskriminellen
 
 dann das "forschungsprojekt der unibasel um traumatische erinnerungen zu loeschen ware VERMUTLICH auch eher dazu da zeugen und rechtsfaelle zu manipulieren und das -wir-wollen-nur-dass-vergewaltigungesopfer-nicht-mehr-suizidal-sind- waere nur die zurich versicherung welche so an finanzierung kommen will fuer forschung zur manipulation von rechtsfaellen und zeugen" steht sonst alles auf den notizen auf ../.../scans/23 bzw 24
+
+
+dann lxde/lxdm hat glaub kein direct rendering ... auch etwas was ein display manager wie gdm3 sowieso nicht braeuchte vermute ich
+
+sich zu diesen dingen einzuarbeieten waere super spannend aber dann werde ich wieder in die luft gesprengt wenn ich mich auf technsiches konzentriere :/
+
+
