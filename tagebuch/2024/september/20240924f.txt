@@ -21,6 +21,9 @@ unaufgeforderte Uebermittlung:
 
 und mit mehr Technologie hat es auch mehr ueberwachung, also dass ihr diese Dinge fuer immer vertuschen koennt ist unwahrscheinlich, bzw eine Abklingfunktion in abhaengigkeit der Zeit [t]
 
+----=====  Tue Sep 24 21:11:06 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 19c6c2ff6b27ec4ca68ed7fadf02479dbe714510 ====----
+[main 8378c6d2] ... 19c6c2ff6b27ec4ca68ed7fadf02479dbe714510
+ 1 file changed, 18 insertions(+), 25 deletions(-)
 
 
 
