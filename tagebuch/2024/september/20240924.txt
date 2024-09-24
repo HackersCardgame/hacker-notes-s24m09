@@ -30,3 +30,15 @@ damit soll zeugen, opfern, autisten oder iv empfaengern ausgetrieben werden stra
 
 
 Tue Sep 24 05:02:04 CEST 2024
+
+
+
+erste untersuchung des Problems mit gdm3 und gnome oder gnome-classic welche nicht gehen
+
+das ist so etwas wie eine zutrittskontrolle welche vermutlich in einer library von gtk, gnome... hockt welche sowohl gdm3 als auch gnome gnome-sesseion gnome-shell verwendet
+
+die zutrittskontrolle soll vermutlich verhindern, dass zeugen, opfer oder autisten wie ich irgendwelche dinge wie das gestern an Bundesbehorden weitermelde
+
+lxde geht aber...
+
+
