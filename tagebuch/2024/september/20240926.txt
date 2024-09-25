@@ -1,46 +1,46 @@
-----=====  Wed Sep 25 14:39:08 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 00acc40489ecd5949c795fc363c099a513b9213b ====----
-[main 6a1d12af] ... 00acc40489ecd5949c795fc363c099a513b9213b
- 1 file changed, 82 insertions(+)
- create mode 100644 tagebuch/2024/september/20240925.txt
-
-Scheinbar spielen einiger Aarauer immer mehr "Personen Flipperkasten mit mir als unfreiwillige Fipper-Kugel", was ziemlich mein kritisches Denken daktiviert. Das wurde VERMUTLICH nicht nur mit mir gemacht in Aarau, sondern auch mit Michael Boeringer (vom Blick.ch Grosimoerder genannt) und Hapte Avaia (vom Blick.ch Gleismoerder genannt) gemacht.
-
-Einwirknugsdauer macht menschen psychotischer [1], und wird ein mensch psychotisch gemacht und sein kritisches denken so deaktiviert, dann kann man ihn einfacher triggern und als amoklaufer oder drohne auf 2 beinen verwenden. ABER da sind vermutlcih shcon noch medulla spinalis Neuralink irgendwoe beteiligt
-
-das "Personen-FlipperKasten spiel" waere kein spiel, sondern das waeren geltungssuechtige kokain konsumenten welche so versuchen zeugen oder Mitarbeiter von zB interpol oder fedpol zum schweigen zu bringen, bzw auch einfach schauen dass sowohl opfer als auch bundes behoerden nicht mal die moeglichkeit fuer einen dialog haben
-
-Kokain-Konsum --> geltungssucht --> personen-flipperkasten-spiel --> kritsiches denken deaktiviert --> person in amoklauf ferngesteuert
-
-dann die security zentralen von laeden waeren oft auch im kokain ring, damit die verhindern koennen dass das FEDPOL an ueberwachugsdaten kommt, bze. hatte Gabriel Riela schon ca 1999 ein Video-Bearbeitungs-Team, also dass die leute die videos abaendern bevor das FEDPOL diese sichern kann
+----=====  Thu Sep 26 01:36:14 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september cbd2094524a58abb5eb82e39b8168162a3c6bb9a ====----
+[main 478e69bb] ... cbd2094524a58abb5eb82e39b8168162a3c6bb9a
+ 1 file changed, 46 insertions(+)
+ create mode 100644 tagebuch/2024/september/20240926.txt
 
 
-
-dann waere der kollege des kokain-konsumenten markus belser der herr dominik braendli auch kokain suechtig, und militaer anwalt geworden um genau soclhe dinge in aarau zu verschleiern, denn schlussendlich wird das ganze ueber das militaerische glasfasernetzer aber vermitlich auch ueber zivile Netzwerke wie die UPC von Walter Brigger geseteuert, und walter brigger besitzty somit mehrere waffenplaeze, der haette jetzt einfach grad mal die ganze familie braendli etc verraten und das ganze personennezwerk
-
-und das soll VERMUTLICH den Fokus wieder auf den Fall Hapte Avaia lenken statt dass man diese Netzwerke von zB upc generell davon abhaelt solche dinge zu machen
+Die 
 
 
-
-Nur FALLS ich richtig liege mit der Interpretation meiner UNFREIWILLIGEN beobachtungen
+Zeile 26 in 20240925.txt
 
 * Haette Walter Brigger rasch sowohl die Familie Braendli, die "Anwaltsgehilfen" der Familien Braendli, den Kokain Ring Aarau und Familie Pfisterer versenkt
 
- ====== ====== ====== ====== ====== ====== ======
-* WAERE ES TOOL, wenn man solche Personen-Flipper-KastenSpiele rechtzeitig legal mit ueberwachung erkennen und einschreiten koennnte BEVOR es Suizide oder Amoklaufe gibt  --> AUSSERDEM ist gemaess das was man in den Zeitungen liest auch oft Sprengstoff und waffen bei kokain-lieferungen dabei, wo man sowieso zum schutz der bevoelkerung einen riegel schieben sollte
- ====== ====== ====== ====== ====== ====== ======
+... waere die perfekte Tarnung fuer das Taeternetzwerk aarau
+1. Totgesagte
+2. wuerde brigger der nicht aus aarau ist als maechtigster taeter da stehen
 
-dann ist AFAIK die UPC international, da habe ich noch nicht darueber nachgedacht was das im detail bedeutet
+scheinbar wurde mir irgend eine Bio/Chemie-waffe verpasst
+
+* regelkreis Kopschmerzen synchron zu dem was ich in der wohnung tue
+* regelkreis magenschmeryen synchron zu dem was ich in der wohnung tue
+-> das wird eingeschaltet wenn ich viel wasser trinke um zu verhindern dass ich das aus meinem koerper raus spuele
+
+dann parallel wuerden vermutlich die triebtaeter mit offizierstitel
 
 
-dann auf dem Rueckweg ist mir noch aufgefallen:
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+bank von david utz welche wirst case im Drogen und Biowaffen handel taetig ist wurde heraus geloescht
+bin nciht mehr sicher ob Neue Aargauer Bank oder Aargauer Kantonal Bank
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
-* die Tommy-Knockers (Fernsehfilm den ich nie gesehen habe) das sind keine kinder sondern starategisch aufgestellte triebgesteuerte alte weisse menschen
 
-* dann hat die Schweizer Armee und/oder die Familie Braendli so einen Art "Multiple Outer Circle Headshot" circle fuer den heimweg, wo dann so viele dingen noch mir hinterher geworfen wird, dass die wichtige information aus meinem kopf gespammt wuerde. 
 
-also so etwas wie distributed story-telling fuer den rueckweg nach hause, damit das was man grad beobachtet hat und SPEKULATIV als Fuchsjagd oder Personen-Flipperkasten-Spiel interpretiert hat geloescht wuerde mit zB szenen von passanten die dann wenn ich mit dem fahrrad vorbei fahre grad noch die rechte hand wie eine knarre in meine richtung halten UND dann diese Szene permanent geloopt wird um das andere zu ueberschreiben
+Gerne rasch einen bluttest bei mir machen, allenfalls eine Chemitrode welche bereits lange in meinem koerper ist und zB von der Psychiatrie
+koenigsfelden verpasst wurde als ich geschlafen habe
 
-dann weil ich 400 jahre stammbaum aarau habe wuerde man schlussendlich noch sagen ich sei der master und commander, also VERPETZE ich das LAUTHALS
 
-JakShaving:
-[1] sprachsample: "hahaha schizophrenie wird zur selbsterfuellenden prophezeihung"
+solche leute haben bereits germordet, somit ist nicht zu erwarten, dass walter brigger wirklcih urs blum, david utz, belser, pfisterere und den ganzen waffenplatz verraten
+
+also waere das gestern wieder ein FNORD LEAK gewesen
+
+also man leakt etwas ueber mich, dann wenn ich das anspreche schlaegt man auf mich drein um mir auszutreiben ueberhaut die morde der militaers anzusprechen
+
+
+
+
