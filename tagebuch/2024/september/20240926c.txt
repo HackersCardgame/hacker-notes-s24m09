@@ -22,5 +22,8 @@ da waere auch eine frage, wie urs blum bei dir vermutlich als vorlauf nur gering
 
 kann es sein, dass damals martin blum irgend feige dem urs beihilfe geleistet hat ???
 
+----=====  Thu Sep 26 21:24:01 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september a33f373411a8114b1dd0d4fce2ad859fa87fb541 ====----
+[main fac05c27] ... a33f373411a8114b1dd0d4fce2ad859fa87fb541
+ 1 file changed, 6 insertions(+)
 
 
