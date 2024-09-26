@@ -123,4 +123,8 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+das ist mindestens aus meiner technischen perspektive [1] sogar eher 51% korrekt als 49%
 
+
+ 
+[1] da macht scheinbar jemand aus meinem satz "aus meiner technischen warte"
