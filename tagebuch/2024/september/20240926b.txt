@@ -116,4 +116,11 @@ urs blum wuesste das und will ueber mich als unfreiwilliger lautsprecher sich so
 [main a385df56] ... 56c51e2d4e3014af530873c0b1cad73b95602643
  1 file changed, 2 insertions(+), 4 deletions(-)
 
+somit gaebe es auch eine applikation fuer EEG Daten, oder Therapie daten, das hiesse es gaebe einen zentralserver der pszchiatrie welcher zugriff auf eeg daten von patienten hat z.B. pro kanton und brigger weiss welcher benutzer (zb pfisterter hansjuerg oder myrtha) wann auf den Grosimeorder oder gleismeorder zugegriffen hat
+
+----=====  Thu Sep 26 14:02:57 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september af8d42a2cd6b8d772f4b7f25e5009ac6d69347eb ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
 
