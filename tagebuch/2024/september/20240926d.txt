@@ -24,4 +24,9 @@ ich bitte darum die befragung des zeugen marc rj landolt so lange [1] nach hinte
 ich:
 ja wenn ich nicht geschlafen habe loese ich puzzles falsch und bin einfacher manipulierbar. und das hiesse auch immer, dass wenn mit einem zeugen eine "Wachtherapie" gemacht wird ist das nur der gedeckt-getarnte manipulation eines zeugen oder einer gerichtsverhandlung mit Schlafdeprivation als wach"therapie" getarnt
 
+Somit alle Akten von Pszchiatrie schweizweit auswerten, ob irgendwo dinge wie Wachtherapie dokumentiert wurden, dann waeren das vermutlich auch rechtsfaelle die manipuliert wurden
+
+----=====  Thu Sep 26 15:47:12 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 96321fc7890a65c00ca6708d2c8e9e66c4ebe079 ====----
+[main 85b9e842] ... 96321fc7890a65c00ca6708d2c8e9e66c4ebe079
+ 1 file changed, 5 insertions(+)
 
