@@ -77,7 +77,22 @@ apt-get install -y obs-studio
 apt-get install -y tesseract-ocr
 apt-get install -y nvidia-detect
 apt-get install -y locate
+
+fgrep -ri PRUNEPATHS /etc/ 2>/dev/null
+
+if YESNO "edit PRUNEPATHS and updatedb ???"
+then
+#echo run /old2/home/marc/hacker-notes-s??m??/tools/mount.sh
+echo mount all drives with eg. nautilus in gui with that user you normally use
+#su marc
+
+echo pressanykey
+read
+find /media/ -type d -maxdepth 2
+read
+vim /etc/cron.daily/locate -c "/PRUNEPATH"
 updatedb
+fi
 apt-get install -y apt-file
 apt-file update
 apt-get install -y espeak-ng
@@ -123,7 +138,7 @@ echo dann \"winetricks d3dx9\" und \"winetricks vcrun2010\" eingeben mit dem Ben
 
 dpkg --add-architecture i386
 apt-get update
-	apt-get install wine32:i386
+apt-get install wine32:i386
 
 fi
 
@@ -182,7 +197,6 @@ echo "printer installieren"
 echo ""
 echo "printer installieren"
 echo ""
-apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
-apt-get install espeak
+#apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
+apt-get install espeak espeak-ng
 
-fgrep -ri PRUNEPATHS /etc/ 2>/dev/null
