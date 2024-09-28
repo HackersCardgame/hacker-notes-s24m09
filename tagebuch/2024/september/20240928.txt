@@ -112,3 +112,8 @@ coping strategie fuer mich [1] ware das dann halt einfach nochmals zu bestellen
 [2] darauf wird das sprachsample von nico wild von ca 2010 abgespielt: es ist legal mit schlaegertypen an einem haus zu klingeln (solange sie keine koerperliche gewalt ausueben <- verueben) <- waere es aber nicht weil gemaess bundesverfassund oder menschenrechte haette ich ein recht auf koerperlcihe und psychische unversehrtheit
 
 dann ein rechtsverdreher von urs blum: marc jr landolt ist hat auch gedroht <- ich: ja mit meinen riesengrossen oberarmmuskeln und eklig bemuskelten bodybuilder waden <- fuer das gerichtsprotokoll, anprangernder zynismus, ich sehe eher nciht wie ein muskelprotz-macho-gefahrenquelle-auf-2-beinen aus
+
+----=====  Sat Sep 28 10:01:05 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 1df3604351bca91be7ce9f8459d915d93b6e531d ====----
+[main 3d013177] ... 1df3604351bca91be7ce9f8459d915d93b6e531d
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
