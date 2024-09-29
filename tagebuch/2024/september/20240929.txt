@@ -157,4 +157,12 @@ Sun Sep 29 11:36:24 CEST 2024
 f9e4f32493433c28d62f039d7bc39b6d57fd4870
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
+zB in Gedit kann man die "External Functions" einschalten, dann so wie auf dem screenshot [1]
+
+[1] ~/hacker-notes-s24m09/FEDPOL/idee-fuer-eine-weisung.png
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Sun Sep 29 11:39:45 CEST 2024
+4350203ba48ba5f50f191dc933d148ec9ba72209
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
