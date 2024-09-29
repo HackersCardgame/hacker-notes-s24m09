@@ -9,3 +9,11 @@ Wir konnten die Übermittlung "Der Kronzeuge Marc jr Landolt muss weg" abfagen
 
 ich:
 scans der notizen und herleitung folgen grad auf github
+
+
+
+dann scheint es bei der INTEL-ME (eigentlich Hardware Backdoors) eine Option zu geben, dass der bildschirm sobald der screensaver aktiv ist nicht mehr angezeigt wird, tastatur gesperrt wird
+
+somit wäre das ein indiz, dass der ganze desktop über funk remote backdoors übernommen wurde, von jemandem mit sehr teurer malware ABER keinen Fähigkeitenb und den desktop braucht
+
+
