@@ -145,3 +145,16 @@ eba78e4551fdc1476fb1dce426bf2bc63addbf76
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
 
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Sun Sep 29 11:35:30 CEST 2024
+f9e4f32493433c28d62f039d7bc39b6d57fd4870
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
+
+also ich will kein kleiner schweizer Hitler sein, ABER die Weisung, den HASH von Git-repositories mit git rev-parse HEAD immer auf den ausdruck von z.B. tabüchern oder protokollen zu tun ist VERMUTLICH wine gute Idee
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Sun Sep 29 11:36:24 CEST 2024
+f9e4f32493433c28d62f039d7bc39b6d57fd4870
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
+
+
