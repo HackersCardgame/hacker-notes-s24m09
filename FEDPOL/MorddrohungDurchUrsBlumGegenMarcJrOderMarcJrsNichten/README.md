@@ -72,3 +72,12 @@ dann nicht ganz das selbe Konzept, aber so ähnlich wie
 Screenshot from 2024-10-05 08-10-31.png
 Screenshot from 2024-10-05 08-10-53.png
 Screenshot from 2024-10-05 08-14-08.png
+
+Und es wären nicht "DIE MOSLEMS" es wäre auch nicht "DIE ISIS", gegen kinder zu drohen ist einfach der feigeste schachzug eines menschem mit offizierstitel der oft viel zu viel zugang zu gebäuden haben und einfach mit einer gelben mappe wichtigtuerisch in der ABB Halle herum watscheln kann aber noch nie einen schraubenzieher oder ein Drehmoment-Schlüssel selber in den fingern hatte
+
+Somit kann man DIESE SORTE von Offizieren und Militärs zu 100% psychologisch Gleichsetzen mit der ISIS, mit der ALKAIDA, mit der MOSSAD, mit der HISBOLLA ...
+
+Gerne Bitte an FEDPOL, INTERPOL, EUROPOL aber auch an die OSINT Communtiy, da brauchen wir ein funktionierendes system solche dinge rechtzeitig zu erkennen und solche Mensche für IMMER zu verwahren.
+
+
+
