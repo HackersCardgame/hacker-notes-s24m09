@@ -10,3 +10,9 @@ das wäre das nachfolge Mail was den Martin Blum so ziemlich als einen derer auf
 somit ist urs und martin blums aktuelle: wenn das FEDPOL weiter gegen Blums ermittelt werden sie marc jr lanodlts nichtnen ermorden?
 
 und vermutlcih genau für diesen Schachzug musste damals die 14 jährige cornelia utz sterben, damit die täter aus dem umfeld der eltern der 1980er kidner sich geltung verschaffen können
+
+urs blum legt als FREMDSPUR zu den Amerikanern folgende Aussage
+
+Die Cyber-... der US Army wussten dass da kinder im Van sind als sie die Reuthers Journalisten ungebracht haben, da ging es darum sich den bürgern auch geltung zu vershcaffen mit kindsmord
+
+
