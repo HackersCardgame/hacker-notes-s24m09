@@ -41,3 +41,9 @@ dann dort wo ich bei der echolinde mir den kopf mit benzin verbrannt habe, dort 
 
 das wäre aber die andere seite gewesen, 70° anderer winkel als von pfisterers an der tannerstrasse her
 
+dann würde das auch erklären, wozu der herr rudie berger, bezirksschul-lehrer und bisschen weiter unten als pfisterer im Zelgli ein Gewehr mit Leuchtspur-munition bei sich herum liegen hat
+
+also zelgi hätte es ganz viele geisteskranke militärs die wie härdi mit der rechten hand auf die höhe des kopf eines kindes zielen wie mit einer knarre.
+
+Und das geheimnis im Zelgli wäre, dass man mit einem Gewehr menschen fernsteuern kann, 
+
