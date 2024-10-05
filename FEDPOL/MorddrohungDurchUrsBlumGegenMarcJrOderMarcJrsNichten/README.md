@@ -27,5 +27,5 @@ somit wenn ich tod bin hat urs blum keinen grund mehr gegen meine nichten zu dro
 Sat Oct  5 07:39:56 CEST 2024
 mir wird ja seit jahren irgendwie hintendruch vorgeworfen, dass ich meinen grossvater ermordet hätte, aber er wäre auch von leuten wie blums oder pfisterers bedroht wordne als aarauer mit 400 jahren stammbaum dass man seine grosskinder (mich,urslua, dominik) ermorden würde und ist deshalb gegagen, deshalb auch das portemonnaye "meines grossvaters" was mir meine grossmutter gegeben hat mit einer tablette drin wo auf dem neuraink eingeblendet wurde, dass das zyankali sei
 
-
+Falls das FEDPOL daten hat zu 1982, z.B. den Autopsie-bericht meines Grossvaters wäre das allenfalls wichtig für unsere familie
 
