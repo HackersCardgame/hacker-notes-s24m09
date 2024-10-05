@@ -92,6 +92,12 @@ marc@debian:~/hacker-notes-s24m09/cyberWar$ figlet INTERPOL
 |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
 
 
+selektive sperre
+
+* öffentlcihe gruppen   <= bei mir nur das hier
+* private chats
+* ...
+
 
 
 
