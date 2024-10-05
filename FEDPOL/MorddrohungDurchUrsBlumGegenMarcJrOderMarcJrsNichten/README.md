@@ -45,5 +45,11 @@ dann würde das auch erklären, wozu der herr rudie berger, bezirksschul-lehrer 
 
 also zelgi hätte es ganz viele geisteskranke militärs die wie härdi mit der rechten hand auf die höhe des kopf eines kindes zielen wie mit einer knarre.
 
-Und das geheimnis im Zelgli wäre, dass man mit einem Gewehr menschen fernsteuern kann, 
+Und das geheimnis im Zelgli wäre, dass man mit einem Gewehr menschen fernsteuern kann, somit wäre kindsmord und morddrohunge gegen kinder die superwaffe der schweizer Armee
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Sat Oct  5 07:51:00 CEST 2024
+1d3c1b05b10c991caeb89ed3a37221afd410d16d
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
+
 
