@@ -29,3 +29,8 @@ mir wird ja seit jahren irgendwie hintendruch vorgeworfen, dass ich meinen gross
 
 Falls das FEDPOL daten hat zu 1982, z.B. den Autopsie-bericht meines Grossvaters wäre das allenfalls wichtig für unsere familie
 
+also die armee die immer behauptet es gehen um ahnenerbe und tradition und patriotimsus, das wäre einfach nur gelogen und man ermordet die menschen die in der kirche irgendwo weit vorne einen platz haben weil langen stammbaum
+
+
+
+
