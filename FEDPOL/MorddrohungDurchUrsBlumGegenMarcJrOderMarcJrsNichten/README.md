@@ -52,4 +52,14 @@ Sat Oct  5 07:51:00 CEST 2024
 1d3c1b05b10c991caeb89ed3a37221afd410d16d
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
+also der "liebe" herr Ruedi Berger, Französisch Lehrer in der Bezirksschule Aarau Zelgli, der Stefan Ott vorwürfe macht, dass er so unzuverlässig sei wie sein sohn der mit leuchtspurmunition das haus abgefackelt hat von ruedi berger hätte dort vermutlcih schon so etwas wie maximale ertrag karte "gespielt"
+
+1. stefan vorwürfe machen
+2. von sich und möglichen drohungen gegen kinder auf seinen sohn ablenken 
+3. versicherungsbetrug ODER sein sohn musste die ganze Zeche bezahlen
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Sat Oct  5 07:56:53 CEST 2024
+ecf0486f9939a025a460a257fe71b47172a4f254
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
