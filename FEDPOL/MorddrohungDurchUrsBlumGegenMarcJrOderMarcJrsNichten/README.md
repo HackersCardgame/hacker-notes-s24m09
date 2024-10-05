@@ -35,7 +35,7 @@ pfisterer hat [1] somit das haus beim pfadiheim um mit dem snipergewehr auf pfad
 
 [1] urs blum: david utz hat so auch den vater von sabrina lüthi gekillt
 
-
+unbekannt / pfisterer: die Schärrers neben dran tun das auch
 
 
 
