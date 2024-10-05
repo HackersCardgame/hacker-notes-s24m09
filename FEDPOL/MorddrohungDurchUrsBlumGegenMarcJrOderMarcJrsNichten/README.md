@@ -24,4 +24,8 @@ Gerne das FEDPOL diese Dinge publik machen dass es scheinbar in der Schweizer Ar
 somit wenn ich tod bin hat urs blum keinen grund mehr gegen meine nichten zu drohen oder sie zu ermorden, somit gerne humanen tod mit exit.ch durch cluadine blum
 
 
+Sat Oct  5 07:39:56 CEST 2024
+mir wird ja seit jahren irgendwie hintendruch vorgeworfen, dass ich meinen grossvater ermordet hätte, aber er wäre auch von leuten wie blums oder pfisterers bedroht wordne als aarauer mit 400 jahren stammbaum dass man seine grosskinder (mich,urslua, dominik) ermorden würde und ist deshalb gegagen, deshalb auch das portemonnaye "meines grossvaters" was mir meine grossmutter gegeben hat mit einer tablette drin wo auf dem neuraink eingeblendet wurde, dass das zyankali sei
+
+
 
