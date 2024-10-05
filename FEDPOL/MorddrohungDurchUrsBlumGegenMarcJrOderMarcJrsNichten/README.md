@@ -63,3 +63,12 @@ Sat Oct  5 07:56:53 CEST 2024
 ecf0486f9939a025a460a257fe71b47172a4f254
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
+dann nicht ganz das selbe Konzept, aber so ähnlich wie
+
+* Sprengstoff in Plüschtiere tun
+* Sprengstoff in Kinderspeilzeug tun
+* der Kosmos Verlag der genau dort wo es für das kind spannend würde weil man vom FlipFlop dann zum schieb register, und vom Schieberegister dann lernen würde wie ungefähr eine einfach CPU funktionert
+
+Screenshot from 2024-10-05 08-10-31.png
+Screenshot from 2024-10-05 08-10-53.png
+Screenshot from 2024-10-05 08-14-08.png
