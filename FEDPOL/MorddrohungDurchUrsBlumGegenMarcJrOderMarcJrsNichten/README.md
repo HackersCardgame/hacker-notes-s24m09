@@ -20,3 +20,8 @@ also die Pädophilie-Liebhaber Häuser direkt an schulen, das wäre auch eher et
 somit bräuchten wir eine sicherheitsfunktion in schulen welche NICHT von solchen geistenskranken militärs stammt oder unterwandert ist welche verhindert, dass leute wie urs blum oder martin blum einfach da eine sniper position einnehmen und nach belieben "hätte könnte jetzt das kind von marc jr erschiessen" spielen
 
 Gerne das FEDPOL diese Dinge publik machen dass es scheinbar in der Schweizer Armee solch geisteskranke Offiztiere hat
+
+somit wenn ich tod bin hat urs blum keinen grund mehr gegen meine nichten zu drohen oder sie zu ermorden, somit gerne humanen tod mit exit.ch durch cluadine blum
+
+
+
