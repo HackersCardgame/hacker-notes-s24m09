@@ -31,6 +31,11 @@ Falls das FEDPOL daten hat zu 1982, z.B. den Autopsie-bericht meines Grossvaters
 
 also die armee die immer behauptet es gehen um ahnenerbe und tradition und patriotimsus, das wäre einfach nur gelogen und man ermordet die menschen die in der kirche irgendwo weit vorne einen platz haben weil langen stammbaum
 
+pfisterer hat [1] somit das haus beim pfadiheim um mit dem snipergewehr auf pfadfinder ziehlen zu können 
+
+[1] urs blum: david utz hat so auch den vater von sabrina lüthi gekillt
+
+
 
 
 
