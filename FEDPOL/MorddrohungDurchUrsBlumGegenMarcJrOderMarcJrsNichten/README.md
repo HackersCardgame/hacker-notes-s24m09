@@ -77,7 +77,9 @@ Und es wären nicht "DIE MOSLEMS" es wäre auch nicht "DIE ISIS", gegen kinder z
 
 Somit kann man DIESE SORTE von Offizieren und Militärs zu 100% psychologisch Gleichsetzen mit der ISIS, mit der ALKAIDA, mit der MOSSAD, mit der HISBOLLA ...
 
-Gerne Bitte an FEDPOL, INTERPOL, EUROPOL aber auch an die OSINT Communtiy, da brauchen wir ein funktionierendes system solche dinge rechtzeitig zu erkennen und solche Mensche für IMMER zu verwahren.
+Gerne Bitte an FEDPOL, INTERPOL, EUROPOL aber auch an die OSINT Communtiy, da brauchen wir ein funktionierendes system solche dinge rechtzeitig zu erkennen und solche Mensche für IMMER zu verwahren. und um einen von jake appelbaum besten Aussagen zu zitieren: "i think we should comply with the law in order to continue publishing" ... was man dann aber auch ncoh um "und dass die Beweise vor Gericht zugelassen werden um solche Menschen FÜR IMMER zum Schutz der Allgemeinheit wegzusperren" ergänzen sollte
+
+
 
 
 
