@@ -63,3 +63,35 @@ ich empfehle dem FEDPOL / INTERPOL dringend die Klarnamen der Admins dieser Auti
 
 @adhsautismus ???
 @adhsautismusde ???
+
+marc@debian:~/hacker-notes-s24m09/cyberWar$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+technisch ist das glaub jeweils so dass 
+
+* alle WhitePsyOPs
+* alle WhiteHats
+* alle Menschen mit Helfersyndrom
+* wirst case sogar alle rechtschaffenden Medics
+
+zum system ausgesperrt werden
+
+RECHTLICH: Vorerst Spekulation
+
+marc@debian:~/hacker-notes-s24m09/cyberWar$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+
+
+
+
+
