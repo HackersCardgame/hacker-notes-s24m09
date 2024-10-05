@@ -37,5 +37,7 @@ pfisterer hat [1] somit das haus beim pfadiheim um mit dem snipergewehr auf pfad
 
 unbekannt / pfisterer: die Schärrers neben dran tun das auch
 
+dann dort wo ich bei der echolinde mir den kopf mit benzin verbrannt habe, dort hätte mich auch jemand gesteuert in dem er mit einem sniper geweihr auf mich gezielt hat?
 
+das wäre aber die andere seite gewesen, 70° anderer winkel als von pfisterers an der tannerstrasse her
 
