@@ -18,3 +18,13 @@ Tue Oct  8 12:01:34 CEST 2024
 4102370fa57fa48e442c593d4c42a6fa47264912
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
+ruag ag ist scheinbar sauer auf mich und hat jetzt scheinbar sich grad verraten dass sie auch github serverseitig cyber-sprengfallne, drosselfunktionen etc hat
+-> irgendwer: das ist auf den UPC netzhwerken
+ ---> nö: compressing objects was gedrosselt wurde ist serverseitig 
+
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Tue Oct  8 13:14:28 CEST 2024
+53d691b0760f1b7040f55c22189e11a108782151
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
+
