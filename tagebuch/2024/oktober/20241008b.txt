@@ -51,4 +51,10 @@ Also das "ich will Sprengmeister werden" was philipp bereits gebellt hat als er 
 
 Notizen und Herleitungen gelich die Scans dazu
 
+~/hacker-notes-s24m09/scans/25/BRN3C2AF421298E_045820--551-582.pdf
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Tue Oct  8 17:50:56 CEST 2024
+042ecb78fc71672454dded442952c879ab21572d
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
