@@ -37,3 +37,42 @@ Wed Oct  9 00:32:45 CEST 2024
 2d7e588c2d4bd0de3486f8b8f0c74d08ddee7282
 = = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
 
+
+= = = = = = = = = = HASH FUNCTIONALITY SABOTAGED = = = = = =
+Wed Oct  9 13:52:26 CEST 2024
+720bbf065c7f04e91f5b6fb19a7b9c27878b1377
+= = = = = = = = = = HASH FUNCTIONALITY behelfsmässig repariert = = = = = =
+
+da mache ich jede wette da wird grad wieder mein gnome-desktop gesprengt um das > > GEHEIM < < zu halten.
+
+
+marc@debian:~$ figlet Giotto Dolchstoss
+  ____ _       _   _          ____        _      _         _                
+ / ___(_) ___ | |_| |_ ___   |  _ \  ___ | | ___| |__  ___| |_ ___  ___ ___ 
+| |  _| |/ _ \| __| __/ _ \  | | | |/ _ \| |/ __| '_ \/ __| __/ _ \/ __/ __|
+| |_| | | (_) | |_| || (_) | | |_| | (_) | | (__| | | \__ \ || (_) \__ \__ \
+ \____|_|\___/ \__|\__\___/  |____/ \___/|_|\___|_| |_|___/\__\___/|___/___/
+                     
+
+
+p1: Story-Telling soll eine gute User Experience geben
+
+p2: Astrid Blum hat 2001 gesagt dass sie Giotto [1,2]
+[1] Selektor und Werbetext "erst reinschupsen, dann retten"
+[2] de facto wäre es "erst verraten (dreinschupsen), dann abzocken (kostenpflichtige Rache-Kokain-Drogen-Zauberei-Hexerei-Ramsch)
+
+p3: egal ob für KV Kaufmänner oder Amokläufer bzw. "Soldaten" in einem Krieg die user experience soll geil sein
+-> audio der Apache Kampfhubschrauber im Collateral Mörder ist ein direkter Beweis dafür
+
+p4: zB auch für das ]Hacking Team[ soll die User Experience toll sein, als Gruppe auf einen einzelnen
+
+p5: Development-System / 3D Software für Mulit-user Szenen-Development
+
+p6: da geht es nicht um "ein tolles Erlebnis" (Rache an einem Zeugen) an der Gruppe sondern um den Absatz, weil wenn die nur den Philipp Blum verraten können sie nur 1x Rache-Kokain-Ramsch verkaufen, verraten sie aber das ganze KV, dann können die 10 oder 100x mehr Kokain-Zauber-Ramsch verkaufen (Business is Business)
+
+
+
+
+
+
+
