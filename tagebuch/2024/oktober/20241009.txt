@@ -93,4 +93,9 @@ marc@debian:~/hacker-notes-s24m09$ figlet Business is Business
 marc@debian:~/hacker-notes-s24m09$ 
 
 
+für die Informatik-Linux-Pinguin-Nerd Fraktion wichtig
+
+Software bzw. generische Algorihtmen für Mulit-User Story-Telling, vermutlich schon an techno parties 1999, etwas wie message passing interface (MPI) damit die drogen super duper Schuuuuuuuuuuben
+
+
 
