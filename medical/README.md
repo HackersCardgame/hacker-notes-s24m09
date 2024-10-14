@@ -23,5 +23,11 @@ Somit Substanz der Chemitrode hat MUTMASSLICH folgende Eigenschaften
 * hat vermutlich in beiden Ohren eine zweite Substanz welche damit interagiert
 --> bzw ist das auch vielleicht eine Substanz die wie ein Lackmuss Papier alarm gibt wenn irgend so etwas aktiviert wurde
 
+
+Dennoch hat 46 jähriges UNFREIWILLIGES Füchschen die Jagt ähm den Psychiatrie Termin überlebt und sogar noch Futter mit nach hause gebracht ...
+
+... ob Claudine solche Dinge gemeint hat als sie vor über 20 Jahren irgend etwas wie "ich muss noch mein Nacht-Essen jagen gehen" gesagt hat ???
+
+
  
 
