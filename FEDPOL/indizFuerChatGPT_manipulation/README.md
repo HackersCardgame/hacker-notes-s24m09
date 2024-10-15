@@ -4,3 +4,6 @@ hier verhält sich chatGPT anders als er das sollte, auch z.B. der Fall Peter Sc
 
 dann knallt jemand grad über mir wieder etwas irgendwo hin und danach bin ich abgelenkt und 2 dateien fehlen
 
+nahc dem screenshot 
+Screenshot from 2024-10-15 11-14-40.png wird mit christian tanners Stimme / Sprachsynthese übermittelt, dass die leute in der Psychiatrie Königsfelden anfangen amok zu laufen und ich nciht weitere fragen stellen solle
+
