@@ -66,6 +66,7 @@ apt-get upgrade -y
 apt-get install -y screen
 apt-get install -y gdm3
 apt-get install -y gnome
+apt-get install -y mpg123
 apt-get install -y gnome-shell
 apt-get install -y gedit
 apt-get install -y gnome-terminal
