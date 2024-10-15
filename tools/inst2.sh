@@ -109,6 +109,8 @@ apt-get install -y pavumeter
 apt-get install -y callibre
 apt-get install -y iotop
 apt-get install -y xxd
+apt-get install -y cups
+
 apt-get install -y libreoffice
 apt-get install -y nautilus
 
