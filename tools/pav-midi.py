@@ -1,5 +1,6 @@
-import mido
 import os
+import mido
+import pulsectl
 
 RED = "\033[31m"
 GREEN = "\033[32m"
@@ -23,11 +24,30 @@ for port in mido.get_output_names():
   print(RED + str(i) + ": " + DEFAULT + port)
   i += 1
 
+pulse = pulsectl.Pulse("my-client")
+sources = pulse.source_list()
+sink_inputs = pulse.sink_input_list()
+sinks = pulse.sink_list()
 
+print(f"{YELLOW}PulseAudio-Eingänge{DEFAULT}:")
+for source in sources:
+  print(f"{RED}{source.index}{DEFAULT}: {source.name}")
+
+
+print(f"{YELLOW}PulseAudio-sinks{DEFAULT}:")
+for sink_input in sink_inputs:
+  print(f"{RED}{sink_input.index}{DEFAULT}: {sink_input.proplist['application.name']}, -- {sink_input.volume}")
+
+print(f"{YELLOW}PulseAudio-Ausgänge{DEFAULT}:")
+for sink in sinks:
+  print(f"{RED}{sink.index}{DEFAULT}: {sink.name}")
+
+
+pulse.volume_set_all_chans(872, pulsectl.PulseVolumeInfo([0.1] * 2))
 
 x="""
 def set_volume(source_index, volume) :
-os.system(f"pactl set-source-volume {source_index} {volume}%" )
+os.system(f"pactl set-source-volume {source_index} {int(sink.volume.value * 100)} {sink.active}" )
 
 # Set up your MIDI input device (adjust accordingly)
 midi_input = mido.open_input('Your MIDI Device Name')
