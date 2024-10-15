@@ -31,3 +31,8 @@ Dennoch hat 46 jähriges UNFREIWILLIGES Füchschen die Jagt ähm den Psychiatrie
 
  
 
+Tue Oct 15 14:38:11 CEST 2024
+
+ich hab das SUBJEKTIVE Gefühl dass sich in letzter Zeit der ChatGPT fast zu vorsätzlich blöd stellt apropos z.B. frequenztapete ODER nur ganz wenige aufgeflogene psychiatrie missbräuche in einer tabelle aufzulisten
+
+
