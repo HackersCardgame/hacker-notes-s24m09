@@ -16,6 +16,8 @@ Somit FALLS Du Aquila-Claudine das hier liest, kann es sein, dass damals schon P
 
 dann wäre das sprengen des Computer vermutlich eine Willensäusserung von Philipp Blum gewesen und die Herren Martin und Urs Blum hätten ihm diesen Wunsch erfüllt und mich halb zerfetzt?
 
+Ausserdem Magnete am Kühlschrank hatten wir Landolts glaub nie, aber bei Blums war das irgendwie so etwas was irgendwie eine Bedeutung hatte
+
 JakShaving was in diesem Fall explizit eine Aussage oder Spekulation zu strafatasten von Philipp Blum verhindert oder herauszögert: 
 [8$] da wird wieder meine hand über neuralink bisschen versetzt dass ich auf die $ taste komme, also die kommunizieren direkt über die Körperfunktionen und Körpertelemtrie der Sündenbocke und Sklaven ???
 
