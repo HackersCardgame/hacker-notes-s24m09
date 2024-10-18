@@ -73,6 +73,7 @@ apt-get install -y gnome-shell
 apt-get install -y gedit
 apt-get install -y gnome-terminal
 apt-get install -y gimp
+apt-get install -y calibre
 apt-get purge firefox-esr
 apt-get install -y epiphany-browser
 #apt-get install -y git vim sudo gnome-boxes figlet inkscape gedit mixxx 
