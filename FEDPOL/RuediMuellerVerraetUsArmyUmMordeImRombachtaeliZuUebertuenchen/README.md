@@ -32,7 +32,7 @@ Dann meine persönliche Bitte an Herrn Dr. Hansjürg Pfisterer: Stalken sie mich
 
 Das mit dem Sturm auf das Kapitol als MUTMASSLICHES Large Scale Brainjacking durch die US Army was MUTMASSLCIH der OFFIZIER Ruedi Müller verraten hat ...
 
-scans/26/BRN3C2AF421298E_046424--651-667.pdf
+~/hacker-notes-s24m09/scans/26/BRN3C2AF421298E_046424--651-667.pdf
 
 ... wäre Pfisterer so wichtig das geheim zu halten, dass er auch grad noch verrät, dass Ruedi Müller damals als ich mit Claudine zusammen war permanent uns zwei gestalkt hat über military grade überwachund und das "hahaha verkohltes stück fleisch" was urs blum ein paar mal gesagt hat dem Ruedi Müller galt, der somit vermutlich wirklciuh einen ICD10 G40.2 sendeinfrastruktur kurs gemacht hatte zuvor um Zivilisten zu grillen und so in den suizid oder amok lauft zu treiben
 
