@@ -29,3 +29,15 @@ jakshaving
 Technisch gesprochen wäre das so eine richtig grosse Large Scale überwachung in Aarau, wo der Pfisterer automatisch aufgeboten wird wenn OFFIZIER Ruedi Müller z.B. Dinge oder Verbrechen der US Army verrät und das dann relativiert, schönredet
 
 Dann meine persönliche Bitte an Herrn Dr. Hansjürg Pfisterer: Stalken sie mich nicht mehr 
+
+Das mit dem Sturm auf das Kapitol als MUTMASSLICHES Large Scale Brainjacking durch die US Army was MUTMASSLCIH der OFFIZIER Ruedi Müller verraten hat ...
+
+scans/26/BRN3C2AF421298E_046424--651-667.pdf
+
+... wäre Pfisterer so wichtig das geheim zu halten, dass er auch grad noch verrät, dass Ruedi Müller damals als ich mit Claudine zusammen war permanent uns zwei gestalkt hat über military grade überwachund und das "hahaha verkohltes stück fleisch" was urs blum ein paar mal gesagt hat dem Ruedi Müller galt, der somit vermutlich wirklciuh einen ICD10 G40.2 sendeinfrastruktur kurs gemacht hatte zuvor um Zivilisten zu grillen und so in den suizid oder amok lauft zu treiben
+
+-------------
+Mon Oct 21 17:34:04 CEST 2024
+73f0a9bd6dc15047475ab8ef9b175572c45db69a
+-------------
+
