@@ -24,3 +24,8 @@ jakshaving
 [3] über traumabased mindcontrol kontext sexuelle integrität
 
 [4] da habe ich den kleineren inn den gruppen noch sagen wollen, dass das mti NSFW inhlaten allenfalls probleme geben kann, bzw. hab ich schon gesagt
+
+
+Technisch gesprochen wäre das so eine richtig grosse Large Scale überwachung in Aarau, wo der Pfisterer automatisch aufgeboten wird wenn OFFIZIER Ruedi Müller z.B. Dinge oder Verbrechen der US Army verrät udn das dann relativiert, schönredet
+
+Dann meine persönliche Bitte an Herrn Dr. Hansjürg Pfisterer: Stalken sie mich nicht mehr 
