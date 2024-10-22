@@ -126,4 +126,8 @@ ich hab die ICS Advent auch in doppelter ausführung, rasch gewechselt, und mein 
 ---->eigentlich mag ich die ICD Advend USB 10/100 LAN weil die hat noch 3 USB anschlüsse...
 
 
+-------------
+Tue Oct 22 02:56:14 CEST 2024
+efcee962e9c10823d4e229f5c1423b45ef328b11
+-------------
 
