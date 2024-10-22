@@ -74,6 +74,10 @@ apt-get install -y gnome-backgrounds
 apt-get install -y wmctrl
 apt-get install -y xdotool
 
+apt-get purge -y cups*
+apt-get purge libcupsfilters2*
+apt-get install -y cups
+apt-get install cups-client -y
 apt-get install -y gedit
 apt-get install -y gnome-terminal
 apt-get install -y gimp
@@ -114,7 +118,6 @@ apt-get install -y pavumeter
 apt-get install -y callibre
 apt-get install -y iotop
 apt-get install -y xxd
-apt-get install -y cups
 
 apt-get install -y libreoffice
 apt-get install -y nautilus
@@ -222,3 +225,4 @@ echo ""
 apt-get install espeak espeak-ng
 
 cp /usr/share/xsessions/*xorg* /usr/share/xsessions/TEST.desktop
+apt-get purge libcupsfilters2*
