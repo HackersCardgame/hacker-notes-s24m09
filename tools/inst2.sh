@@ -217,3 +217,4 @@ echo ""
 #apt-get install mbrola mbrola-de* mbrola-us* mbrola-en1
 apt-get install espeak espeak-ng
 
+cp /usr/share/xsessions/*xorg* /usr/share/xsessions/TEST.desktop
