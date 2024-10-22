@@ -105,4 +105,22 @@ Tue Oct 22 02:42:52 CEST 2024
 f338b5f764faa87174b35c3a099d36a2e9529b72
 -------------
 
+Dann mal wieder etwas wo sowieso niemand sagen kann ich spönne doch weil reproduzierbar :
+
+bugs/debian-trixie-usb-LAN/Screenshot From 2024-10-22 02-42-17.png
+
+also die
+* BUS 001 Device 092: ID 0fe6:9900 ICS Advent USB 10/100 LAN
+
+wären betroffen, nicht aber 
+* Bus 001 Device 095: ID 2001:1a02 D-Link Corp. DUB-E100 Fast Ethernet Adapter(rev.C1) [ASIX AX88772]
+
+ich hab die ICS Advent auch in doppelter ausführung, rasch gewechselt, und mein neuralink sagt
+* setze den router neu auf, dort ist eine bandwith restriction auf dieser Mac Adresse
+* jemand hat die firmware herum gebastelt und dort eine drossel eingebaut
+
+-> aber ich VERMUTE es ist der Treiber im Debian Trixie...
+---->eigentlich mag ich die ICD Advend USB 10/100 LAN weil die hat noch 3 USB anschlüsse...
+
+
 
