@@ -100,6 +100,7 @@ also der algorihtmus beinhaltet (wirst case automatisiert [1]) fremdspurlegung, 
 
 => sprengfallendrohungen wäre somit seit 2001 wo die eltern Astrid und urs blum dem noch miderjährigen phlipp blum beigebracht haben zu bellen "ich will sprengmeister werden" das [LOCK] konzept der zürich verischrung irgendwelhce informatik dinge zu zensieren mit einschüchterung der zeugen wie marc jr landolt mti sprengfallendrohungen
 
+also wenn man in meinem tagebuch fgrep -ri sprengfalle sucht wäre immer nur wenige sekunden oder minuten oben dran irgendwelche wichtige dinge wie die Zensursoftware der züich verischrung welche urs / astrid blum gerne vertuscht hätten
 
 
 ----------------
