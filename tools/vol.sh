@@ -5,5 +5,5 @@ pavucontrol &
 
 sleep 2
 
-wmctrl -r "PulseAudio Volume Control" -e 2100,100,900,900
+wmctrl -r "PulseAudio Volume Control" -e 100,100,900,900
 

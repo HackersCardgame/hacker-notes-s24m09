@@ -71,6 +71,9 @@ apt-get install -y alsa-utils
 apt-get install -y python3-mido python3-rtmidi python3-pulsectl
 apt-get install -y gnome-shell
 apt-get install -y gnome-backgrounds
+apt-get install -y wmctrl
+apt-get install -y xdotool
+
 apt-get install -y gedit
 apt-get install -y gnome-terminal
 apt-get install -y gimp
