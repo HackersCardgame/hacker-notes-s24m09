@@ -109,11 +109,14 @@ Dann mal wieder etwas wo sowieso niemand sagen kann ich spönne doch weil reprodu
 
 bugs/debian-trixie-usb-LAN/Screenshot From 2024-10-22 02-42-17.png
 
-also die
+also die ...
 * BUS 001 Device 092: ID 0fe6:9900 ICS Advent USB 10/100 LAN
 
-wären betroffen, nicht aber 
+... wären betroffen
+
+nicht aber 
 * Bus 001 Device 095: ID 2001:1a02 D-Link Corp. DUB-E100 Fast Ethernet Adapter(rev.C1) [ASIX AX88772]
+* Bus 001 Device 100: ID 0bda:8152 Realtek Semiconductor Corp. RTL8152 Fast Ethernet Adapter
 
 ich hab die ICS Advent auch in doppelter ausführung, rasch gewechselt, und mein neuralink sagt
 * setze den router neu auf, dort ist eine bandwith restriction auf dieser Mac Adresse
