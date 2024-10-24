@@ -124,11 +124,17 @@ somit ist die Argumentation dass
 A) an Hostpoint ausgehändigt hat
 B) bei Hostpoint über deren Mailserver verteilt
 
+betroffen sowhol debian bookworm gnome als auch debian bookworm xfce4
+
 ----------------
 Thu Oct 24 07:41:47 CEST 2024
 b5c82a332c8839c2cb51eda0cdf19b0dfe108c76
 ----------------
 
+dann vor 2 minuten EXIT STRATEGIE: marc jr hat auch twitter und facebook geöffnet mit dem VM-Guest
+
+1. ja aber die 2. VM wo nur hostpoint mail ist geht auch nicht
+2. so eine Schutzbehauptung macht auch nur sinn wenn die annahme dass das über hostpoint (grösster hoster schweiz) verteilt wird wie bereits das projekt carnivore (codename) ca 1997
 
 
 
