@@ -40,11 +40,11 @@ Thu Oct 24 04:54:22 CEST 2024
 ----------------
 
 
-dann wurde scheinbar das Verzeichnis hacker-notes-s24m07/cyberWar/planzer gelöscht [1], wenn man das sucht ist es wieder da + irgned 10 weitere falsche spuren für "blaming the user"
+dann wurde scheinbar das Verzeichnis hacker-notes-s24m07/cyberWar/planzer gelöscht [1], wenn man das sucht ist es wieder da + irgned 10 weitere falsche spuren für "blaming the user" [2]
 
 [1] und das scheinbar auf dem Datenträger mit Schreibschutz
 
-[2] motiv wäre dass die triebteäter der ch army welche auf planzer, quickpack und ikea informatik systeme zugriff haben da immer wieder das aktivieren können, die webseite der ikea macht den selben mist immer noch => also ikea was 100% nciht schweizerishc ist wird von der ch-army dazu gebaucht zuegen zu bedrohen oder in den suziid oder amoklauf zu triggern
+[2] motiv wäre dass die triebteäter der ch army welche auf planzer, quickpack und ikea informatik systeme zugriff haben da immer wieder das aktivieren können, die webseite der ikea macht den selben mist immer noch => also ikea was 100% nciht schweizerishc ist wird von der ch-army dazu gebaucht zuegen zu bedrohen oder in den suziid oder amoklauf zu triggern 
 
 -> also mich körperlich und psychisch so zu verstümmeln macht den triebtätern scheinbar auch ncoh spass
 
@@ -53,5 +53,37 @@ dann FALLS das FEDPOL mitliest, hat grad wieder jemand ICD10 G40.2 sendeinfrastu
 ----------------
 Thu Oct 24 05:44:45 CEST 2024
 86df416b3bf5267803d805f00a82a09a6e75eb85
+----------------
+
+dann das konzept wäre mich mit dem Epilepsie Baseball Schläger dazu zu treien
+
+1. nicht grad backup zu machen wenn ich ein neues github repositoriy beginne
+2. ein backup zuvor zu machen aber nicht mehr zu kontrollieren
+
+
+dann dass die _Z_ürich Versichrung das _Z_ensur Büro der Schweizer Armee ist wäre 
+
+1. so gut gesichert, dass man das sowieso nciht beweisen kann
+2. wäre prokastrinieren karte bei 80% einer andere akte die gelöst würde
+3. war das gestern die übermittlung/indizien, dass Urs Blum und die Zürich Versichrung bereits viele Polizisten, richter und amtspersonen im Kanton Aargau gekauft hätte wichtiger und ein einfacherer fall den man lösen könnte
+
+notiz wurde schon abgeändert :
+dann immer wenn das zensur büro auffliegt fängt urs blum mit sprengfallnedrohungen an
+
+
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+original vor ca. 20 Minuten:
+
+das als das Zensur Büro der schweizer armee also die Zürich verischrung aufgeflogen ist und es bereits zu viele indizien gab, dann stand dann plötzlich in der aargauer Zeitung "Sprengstoff auf waffenplatz weggekommen" ...
+
+----------------
+Thu Oct 24 06:22:35 CEST 2024
+2dc013122302ae83b66b7aba204973a9ef22d6cb
 ----------------
 
