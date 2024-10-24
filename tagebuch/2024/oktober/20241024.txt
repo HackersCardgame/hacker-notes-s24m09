@@ -100,3 +100,9 @@ Thu Oct 24 07:22:44 CEST 2024
 1b0ca67dc9f71eacb90dabb6de5b434289f214b9
 ----------------
 
+guest vm neu gsetartet
+alle geusts neu gestartet
+host jetzt neu starten
+
+
+
