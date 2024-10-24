@@ -146,3 +146,12 @@ Thu Oct 24 07:57:44 CEST 2024
 6d7613459d9cf98b751fa4a932492f21c9b08bf4
 ----------------
 
+xfce network manager tray icon wird dann die funktion auch deaktiviert und bei jedem klick auf das icon [1] wird ICD10 G40.2 höher gestellt
+
+[1] wo dann anders als erwartet kein kontext menu kommt
+
+----------------
+Thu Oct 24 07:59:53 CEST 2024
+152eabd954797954d51cc653f3d5ce0ccc268953
+----------------
+
