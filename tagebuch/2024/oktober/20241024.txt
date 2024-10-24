@@ -87,3 +87,8 @@ Thu Oct 24 06:22:35 CEST 2024
 2dc013122302ae83b66b7aba204973a9ef22d6cb
 ----------------
 
+dann so wie es ausseiht infizert hostpoint mail die Kunden mit zensur malware, welche dann verhindert dass überhaupt ncoh eine netzwerk-adresser bezogen werden kann,
+
+das hat es sowohl in gnome boxes gemacht, als auch jetzt in der mail vm von virt-mamager / qemu
+
+
