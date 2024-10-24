@@ -155,3 +155,11 @@ Thu Oct 24 07:59:53 CEST 2024
 152eabd954797954d51cc653f3d5ce0ccc268953
 ----------------
 
+dann mit wifi usb getestet, dann wifi hat zuerst die wifis aufgelistet, dann wird das aber auch sabotiert, also das ist eine malware die irgendwie dazu lernt ODER ein remote debugger mit hardware funkkanal
+
+----------------
+Thu Oct 24 08:00:50 CEST 2024
+649328ea4a5ff19bb5a7ba2e8485533b9319fb47
+----------------
+
+
