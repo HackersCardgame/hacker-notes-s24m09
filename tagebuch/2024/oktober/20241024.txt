@@ -118,6 +118,17 @@ dann diese malware blendet etwa alle 1 minute das rote X "verbindung fehlgeschla
 
 also das ist dann wieder problematisch, weil meiner meinung nach wurde michael boeringer oder hapte avaya so zum amoklufer abgerichtet oder bei mir tausende von suizidversuchen ausgelöst
 
+somit ist die Argumentation dass 
+
+* Die _Z_ürich versichrung besitzt mindestens ein 0day exploit für thunderbird und ein 0day root exploit für debian current (Bookworm) welche es 
+A) an Hostpoint ausgehändigt hat
+B) bei Hostpoint über deren Mailserver verteilt
+
+----------------
+Thu Oct 24 07:41:47 CEST 2024
+b5c82a332c8839c2cb51eda0cdf19b0dfe108c76
+----------------
+
 
 
 
