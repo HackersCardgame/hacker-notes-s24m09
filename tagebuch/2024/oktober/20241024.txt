@@ -100,9 +100,18 @@ Thu Oct 24 07:22:44 CEST 2024
 1b0ca67dc9f71eacb90dabb6de5b434289f214b9
 ----------------
 
-guest vm neu gsetartet
-alle geusts neu gestartet
-host jetzt neu starten
+* guest vm neu gsetartet
+   ->NIC funktioniert in anderen VM's [1]
+   
+   [1] sprengfallendrohung durch gabriel riela 
+         -> unbekannt: das ist der philipp blum der von sich ablenkt
 
+* alle geusts neu gestartet
+
+* host jetzt neu starten
+     -> bringt nichts
+        -> also man will unbedingt das backup meines mails
+           verhindern, UND sabotiert das mail wo ich meldungen
+           ans zB. die KAPO oder das FEDPOL mache
 
 
