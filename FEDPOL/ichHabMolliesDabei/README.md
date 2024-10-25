@@ -31,6 +31,35 @@ Element 1:
 Element 2:
 * eine Knarre oder sonstiges Machtmittel
 
+Software 1:
+* der Konsument wird dazu abgerichtet sich sein Wohlfühl-Tripp "notfalls" auch mit WaffenDrohungen durchzusetzen [6] (im H7.2 bei Dr. Schleusener wurde mir von einem 5 Jahre jüngeren Patient genau gesagt, ich müsse mich halt durchsetzen -- ist aber nicht mein Stil, ich lieber Füchschen auf 2 Beinen das dem Jäger ausweicht und sich versteckt)
+
+Aktivierung:
+* Dem Patienten eklären, dass es alles eine Illusion ist oder den Entzug der Drogen, Waffen oder Medikamente 
+
+Hier werden jetzt Sprachsamples eingespielt, vermutlich teilweise automatisiert / EventTrigger, automatisierte Fremdspurlegung oder automatisierte Selbstbezichtiugung
+
+Claudine Blum ca 2001:
+"ich unterteile Menschen in Selbstmörder und Amokläufer" <- wo Claudine VERMUTLICH wenn sie der super duper Master of Disaster wäre nciht so blöd wäre das in diesem Moment wieder zu sagen
+
+jemand wie George W. Bush:
+* I will have my revenge wenn the time has come
+
+George W. Bush Sprachsample historisch:
+* Millions of Terrorists like ticking timebombs <- vermutlich jemand wie Pfisterer der das einspielt der wieder auf Geltungssucht spielt, bzw. er würde es eine "Machtddemonstration" nennen VERMUTE ich 
+
+
+
+spiel nach claudine
+
+zürich veriscdhrung
+
+nach unten, nach justiz
+Belser
+
+
+
+
 
 
 [1] Mollies ist die Formulierung der jüngeren Menschen für XTC / Ecstasy
@@ -42,3 +71,5 @@ Element 2:
 [4] Mutmasslich Pfisterer Spielt nach unten: Der Dominic Zschocke hat von "Haschaschnien [5] geredet nicht ich"
 
 [5] da hat mir Dominic Zschocke unafgefordert zu dem Wort erklärt, dass sich daher das Wort Assession (also Auftragskiller) ableite ein einem Piraten-Stammtisch in Frohsinn Aarau
+
+[6] im H7.2 bei Dr. Schleusener wurde mir von einem 5 Jahre jüngeren Patient genau gesagt, ich müsse mich halt durchsetzen -- ist aber nicht mein Stil, ich lieber Füchschen auf 2 Beinen das dem Jäger ausweicht und sich versteckt
