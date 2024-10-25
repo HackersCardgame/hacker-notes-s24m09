@@ -9,9 +9,12 @@ Immer wenn ich solchen Nerdkram mache scheint jemand MUTMASSLICH mit eingekaufte
 
 Dieser Mensch in der Wohnung grad oben dran scheint sich dann immer wie ein Alpha-Tier-Orang-Utan im Jungel zu verhalten, welcher einfach alle anderen Platt macht um dann bequem als Chef "chillen" zu können
 
+Dieser Person hat VERMUTLICH eine Knarre welche sie fast immer exakt über mir zB auf den Boden oder sonst irgendwelche Gegenstände schlägt [3]
 
 
 
 [1] Mollies ist die Formulierung der jüngeren Menschen für XTC / Ecstasy
 
 [2] ein 5 jähriger Autist begreifft schon: "ist kaputt, muss man reparieren tun"
+
+[3] dann bei diesen Dingen wenn die auffliegen schaltet oft ein weiterer afaik ein Stock weiter oben der mit dem Bohrhammer vermutlich gar nicht arbeitet sondern auf eine Metall-Platte bohrt, Lärm, Einschüchtern, Geltungssucht MUTMASSLICH basierend auf Schuldbewusstsein
