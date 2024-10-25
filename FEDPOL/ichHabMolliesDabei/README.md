@@ -9,7 +9,21 @@ Immer wenn ich solchen Nerdkram mache scheint jemand MUTMASSLICH mit eingekaufte
 
 Dieser Mensch in der Wohnung grad oben dran scheint sich dann immer wie ein Alpha-Tier-Orang-Utan im Jungel zu verhalten, welcher einfach alle anderen Platt macht um dann bequem als Chef "chillen" zu können
 
-Dieser Person hat VERMUTLICH eine Knarre welche sie fast immer exakt über mir zB auf den Boden oder sonst irgendwelche Gegenstände schlägt [3]
+Dieser Person hat VERMUTLICH eine Knarre welche sie fast immer exakt über mir zB auf den Boden oder sonst irgendwelche Gegenstände schlägt [3]. Ich VERMUTE dem sein Tripp ist Shitty wenn er nicht mitkommt was Marc jr so schnell am Computer macht, also so etwas wie Hexen-Verbrennung damals.
+
+Dann ist das ein interdisziplinäres Problem, denn da sind auch EventTrigger auf der Überwachung, also z.B. schlägt der Typ mit der Knarre irgendwo drauf, dann verabschiedet sich z.B. meine USB Geräte. Machtdemonstration wie diese Leute es nennen würde, ich nenne es Geltungssucht und Schuldbewusstesein
+
+Technisch ist zB. die Akkustiosche Signatur, oder z.B. ein Real-Time Waffentracking System der Schweizer Armee beteiligt. Das geht vermutlich dann, wenn es keinen RFID Chip z.B. im Griff der Pistole hat, bzw. allenfalls hat die CH-Army die Waffen auch mit einem Radiokativen Tracer marikert oder so etwas. Ich hab leider weder eine Knarre noch einen Geigerzähler, also muss das jemand anderes im Detail rausfinden.
+
+
+ ____  ____   ___  ____  _     _____ __  __ 
+|  _ \|  _ \ / _ \| __ )| |   | ____|  \/  |
+| |_) | |_) | | | |  _ \| |   |  _| | |\/| |
+|  __/|  _ <| |_| | |_) | |___| |___| |  | |
+|_|   |_| \_\\___/|____/|_____|_____|_|  |_|
+                                            
+
+Ich VERMUTE so Herre wie der Herr Dr. Hansjürg Pfisterer [4]
 
 
 
@@ -17,4 +31,8 @@ Dieser Person hat VERMUTLICH eine Knarre welche sie fast immer exakt über mir z
 
 [2] ein 5 jähriger Autist begreifft schon: "ist kaputt, muss man reparieren tun"
 
-[3] dann bei diesen Dingen wenn die auffliegen schaltet oft ein weiterer afaik ein Stock weiter oben der mit dem Bohrhammer vermutlich gar nicht arbeitet sondern auf eine Metall-Platte bohrt, Lärm, Einschüchtern, Geltungssucht MUTMASSLICH basierend auf Schuldbewusstsein
+[3] dann bei diesen Dingen wenn die auffliegen schaltet oft ein weiterer afaik ein Stock weiter oben der mit dem Bohrhammer vermutlich gar nicht arbeitet sondern auf eine Metall-Platte bohrt, Lärm, Einschüchtern, Geltungssucht MUTMASSLICH basierend auf Schuldbewusstseina
+
+[4] Mutmasslich Pfisterer Spielt nach unten: Der Dominic Zschocke hat von "Haschaschnien [5] geredet nicht ich"
+
+[5] da hat mir Dominic Zschocke unafgefordert zu dem Wort erklärt, dass sich daher das Wort Assession (also Auftragskiller) ableite
