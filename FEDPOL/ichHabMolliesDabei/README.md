@@ -23,7 +23,13 @@ Technisch ist zB. die Akkustiosche Signatur, oder z.B. ein Real-Time Waffentrack
 |_|   |_| \_\\___/|____/|_____|_____|_|  |_|
                                             
 
-Ich VERMUTE so Herre wie der Herr Dr. Hansjürg Pfisterer [4]
+Ich VERMUTE so Herre wie der Herr Dr. Hansjürg Pfisterer [4] oder das ganze Psychiatrie-Wesen produziert vorsätzlich Amokläufer in der Psychiatrie, da gibt es ja nur in Aarau mehrere Fälle.
+
+Element 1:
+* etwas wie XTC, bzw. gibt es Medikamente wie Barbituriate oder Tavor welche ähnliche Wirkung haben
+
+Element 2:
+* eine Knarre oder sonstiges Machtmittel
 
 
 
@@ -35,4 +41,4 @@ Ich VERMUTE so Herre wie der Herr Dr. Hansjürg Pfisterer [4]
 
 [4] Mutmasslich Pfisterer Spielt nach unten: Der Dominic Zschocke hat von "Haschaschnien [5] geredet nicht ich"
 
-[5] da hat mir Dominic Zschocke unafgefordert zu dem Wort erklärt, dass sich daher das Wort Assession (also Auftragskiller) ableite
+[5] da hat mir Dominic Zschocke unafgefordert zu dem Wort erklärt, dass sich daher das Wort Assession (also Auftragskiller) ableite ein einem Piraten-Stammtisch in Frohsinn Aarau
