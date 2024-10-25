@@ -48,14 +48,12 @@ jemand wie George W. Bush:
 George W. Bush Sprachsample historisch:
 * Millions of Terrorists like ticking timebombs <- vermutlich jemand wie Pfisterer der das einspielt der wieder auf Geltungssucht spielt, bzw. er würde es eine "Machtddemonstration" nennen VERMUTE ich 
 
+George W. Bush Sprachsample historisch:
+"... the enemies of freedom ..." also diejengen bösen Menschen wie ich die wegen Autismus den Drogensüchtgen auch beweisen könnten dass es einfach eine Rosa-Brille [7] ist
 
+Unbekannt: spiel nach unten, Pivot Element Pfafinder Adler Aarua bzw Zelgli/Gönhard:
+Wie kann es sein dass ein Drogensüchtiger wie Markus Belser dann von der Polizei eingestellt wird [8] und ihm eine Waffe ausgehändigt wird
 
-spiel nach claudine
-
-zürich veriscdhrung
-
-nach unten, nach justiz
-Belser
 
 
 
@@ -73,3 +71,7 @@ Belser
 [5] da hat mir Dominic Zschocke unafgefordert zu dem Wort erklärt, dass sich daher das Wort Assession (also Auftragskiller) ableite ein einem Piraten-Stammtisch in Frohsinn Aarau
 
 [6] im H7.2 bei Dr. Schleusener wurde mir von einem 5 Jahre jüngeren Patient genau gesagt, ich müsse mich halt durchsetzen -- ist aber nicht mein Stil, ich lieber Füchschen auf 2 Beinen das dem Jäger ausweicht und sich versteckt
+
+[7] Bei "Rosa Brille" ist jetzt der EventTrigger von Martin Blum dass er Brillenverkläufer und Offizier sei
+
+[8] Aussage von Dominik Brändli ca 2005: Markus Belser ist jetzt Polizist
