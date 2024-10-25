@@ -37,6 +37,43 @@ Software 1:
 Aktivierung:
 * Dem Patienten eklären, dass es alles eine Illusion ist oder den Entzug der Drogen, Waffen oder Medikamente 
 
+
+[-> GOSUB] <- weiter unten, weitere Täter und Taten die an das eigentliche Problem gehängt wärden um eine inhaltliche oder Rechts-Fall-dDOS zu erzeugen
+
+
+
+
+ ____  _                                  _     _       
+|  _ \(_)___  __ _ ___ ___  ___ _ __ ___ | |__ | |_   _ 
+| | | | / __|/ _` / __/ __|/ _ \ '_ ` _ \| '_ \| | | | |
+| |_| | \__ \ (_| \__ \__ \  __/ | | | | | |_) | | |_| |
+|____/|_|___/\__,_|___/___/\___|_| |_| |_|_.__/|_|\__, |
+                                                  |___/  mutmasslich *
+
+Also diese Menschen werden über ihre Gefühle und ihren Trieb von der CH-Army NUTZBAR gemacht.
+
+Ich VERMUTE als Informatik Student (immer noch ohne Bachelors Degree) ist da etwas wie ein Neuralink Sender / Sende-Relais beteilgit welche ein Neuralink im Libischen Systems der PETZE (meine Wenigkeit) mit dem tribgesteuerten Kokain-Ecstasy.Hund-Köter-Beissreflex-Schni-Schna-Schappi-Krokodile-Repiloiden-Offiziere verbindet  
+
+Ich denke dass es mit hoher Wahrschienlichkekti [polter oben dran] ein Offizier sein müsste, denn genau in der Offiziersschule lernt man sich geltung gegenüber jüngeren oder menschen mit weniger Kaital oder Rang zu verschaffen UND damit anzugeben wie ein toller Hecht-Macho-Angeber-Gefahren-Quelle-auf-2-Beinen man sei
+
+
+weitere INSERTS:
+cia neurologie forschungen, fast Wörtlich: "der CIA hat substantielle Finanzierung an , substantielle finanzzuwendungen an Neurologie Forschung gemacht" was in einem Thieme neurologiebuch, also kein SchwurbelBuch sondern etwas was mediziner lesen
+
+dann wieder Claudine Sprachsample:
+"ein Hormon auf 2 Beinen"
+
+dann filmquelle:
+"die Psychiater und Ärzte spielen solche Dinge mit SOLDATEN schon seit mindestens dem Film /Wojzeck (1979)/" was aber als Filmquelle nicht nur keine wissenschaftliche Quelle ist, sondern meist bei solchen Filmen gibt es 10% relevante Information und 90% zusätzliche Sackgassen und Fremdspuren
+
+* Marc jr summt anprangernd zynisch das Lied von LuciLectric "Fernsehn" ... "Meine Bildung hab ich ausm Fernsehn ...
+
+
+
+
+
+[GOSUB]
+
 Hier werden jetzt Sprachsamples eingespielt, vermutlich teilweise automatisiert / EventTrigger, automatisierte Fremdspurlegung oder automatisierte Selbstbezichtiugung
 
 Claudine Blum ca 2001:
@@ -53,6 +90,8 @@ George W. Bush Sprachsample historisch:
 
 Unbekannt: spiel nach unten, Pivot Element Pfafinder Adler Aarua bzw Zelgli/Gönhard:
 Wie kann es sein dass ein Drogensüchtiger wie Markus Belser dann von der Polizei eingestellt wird [8] und ihm eine Waffe ausgehändigt wird
+
+
 
 
 
