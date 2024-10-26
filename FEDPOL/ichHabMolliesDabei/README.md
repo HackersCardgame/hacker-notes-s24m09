@@ -127,5 +127,11 @@ dann das "Sic vis pacem para bellum" ist zwar vermutlich technisch-grammatiklais
 
 Dann dass syrien seit dem krieg ein narco-staat ist... da auch etwas was mekrwürdig
 
+-----------------
+Sat Oct 26 08:53:52 AM CEST 2024
+47e12668e5e740c0fc8cbf6dfc5833a7bf651a5b
+-----------------
+
+
 
 
