@@ -114,3 +114,18 @@ Wie kann es sein dass ein Drogensüchtiger wie Markus Belser dann von der Polize
 [7] Bei "Rosa Brille" ist jetzt der EventTrigger von Martin Blum dass er Brillenverkläufer und Offizier sei
 
 [8] Aussage von Dominik Brändli ca 2005: Markus Belser ist jetzt Polizist
+
+
+-----------------
+Sat Oct 26 08:48:38 AM CEST 2024
+e3b265fe9e030d7e4654ca2cf199d948d40105ac
+-----------------
+
+dann das "Sic vis pacem para bellum" ist zwar vermutlich technisch-grammatiklaisch-sprachlich korrekt aber inhaltlich genaus so falsch wie "bini et bini paria sunt quinte" (apropos 1984 von George Orwell)
+-> https://t.me/HeilungVonPsychose/1290702
+-> https://t.me/HackersCardgame/4392
+
+Dann dass syrien seit dem krieg ein narco-staat ist... da auch etwas was mekrwürdig
+
+
+
