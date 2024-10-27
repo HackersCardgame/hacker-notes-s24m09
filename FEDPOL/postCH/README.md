@@ -54,3 +54,20 @@ das sei zum terroristen jagen
 das ist wie wenn wenn die schweizer armee vom waffenplatz aarau sprengstoff an schnellkassen in aarau platziert um notfalls "terroristen" in die luft sprengen zu können
 
 
+also da sind interaktiv irgendwelche täter am einfluss nehmen auf mich
+
+weitere exit strategie der blackhats: das sei nur wegen der zeitumstellung
+
+-----------------
+Sun Oct 27 04:20:36 AM CET 2024
+8492d8ce5bd21df33cd78917af3e0de6569ade0e
+-----------------
+
+allenfalls soll das vorsätzlich verschleiern, dass weil das backup datenträger sind was ich bestellt habe und man schon versucht hat das backup meines mail accounts mit vielen mails an die behörden zu verhindern, dass das nur davon ablenken soll dass an den backup datenträgern oder cdrom / dvdrom auf dem postweg manipuliert wird
+
+-----------------
+Sun Oct 27 04:23:26 AM CET 2024
+8492d8ce5bd21df33cd78917af3e0de6569ade0e
+-----------------
+
+
