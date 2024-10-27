@@ -20,4 +20,8 @@ allenfalls etwas wie ACCESS BASED ENNUMERATION die per benutzer den QR-Code anze
 
 -> allenfalls wurden solche dinge auch mit michael boeringer (grösimörder) oder mit hapte Avaya (Gleismörder) in Aarau gemacht um sie zu amokläufern abzurichten
 
+technisch-psychologisch:
+hohn und geltungssucht der herren wie urs blum + zeitgleich aktivierung ICD10 G40.2 -> dann weitere exit strategie "ist nur training und threapie" (also grad nochmals hohn + G40.2)
+
+
 
