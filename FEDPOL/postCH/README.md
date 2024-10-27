@@ -23,5 +23,7 @@ allenfalls etwas wie ACCESS BASED ENNUMERATION die per benutzer den QR-Code anze
 technisch-psychologisch:
 hohn und geltungssucht der herren wie urs blum + zeitgleich aktivierung ICD10 G40.2 -> dann weitere exit strategie "ist nur training und threapie" (also grad nochmals hohn + G40.2)
 
+dann screenshot funktion wird von der post app deaktiviert, damit man das nicht beweisen könnte vorsatz += 1 weiteres strichlein
 
+FEDPOL/postCH/DSC04827--dannAufDemGruenenHakenEinNeuralinkLoopLaufJetztAmokHAHAHA.JPG
 
