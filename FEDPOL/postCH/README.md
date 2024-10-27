@@ -27,3 +27,9 @@ dann screenshot funktion wird von der post app deaktiviert, damit man das nicht 
 
 FEDPOL/postCH/DSC04827--dannAufDemGruenenHakenEinNeuralinkLoopLaufJetztAmokHAHAHA.JPG
 
+also das ist eine statemachine software wo interativ dann kokainsüchtige offiziere dazu geschaltet werden welche angezeigt werden bekommen "diese weitere cyber-Sprengfalle jetzt über die handy post app gegen marc jr landolt zünden"
+
+also wieder etwas wie der TriggerDUKE
+
+
+
