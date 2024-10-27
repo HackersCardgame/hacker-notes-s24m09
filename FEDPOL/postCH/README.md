@@ -33,5 +33,24 @@ also wieder etwas wie der TriggerDUKE
 
 dann weiterer loop: jemand hat eine biowaffe auf den zettel mit dem qr-code im briefkasten geschmiert
 
+dann kann man da nciht die verlängerung einstellen, weder auf webeseite noch auf der app
+
+-> also das hiesse dass auftragskillerteam mit dem snipergewehr hat zugzwang, bis dann und dann am briefkasten, so etwas wie der film phoneboot, nur dass ich kein täter sondern ein Zeuge bin
+
+
+
+
+Sun Oct 27 04:13:48 AM CET 2024
+
+ich denke nicht dass man das hin bekomen würde ohne dass mindestens ein programmierer der post app und des ganzen server systems vorsätzlich bei mord an zeugen hilft
+
+SUBJEKTIVE Meinung: mal diese leute alle wegen terrorverdachts in untersuchungshaft stecken, wie immer ich hab nicht jus studiert, das müssen dann andere menschen entschieden
+
+Exit Strategie: 
+das sei zum terroristen jagen
+1. definition der schweizer armee ist "ein zeuge der von den genoziden der schweizer armee weiss seit den 1950er verdingkinder ist ein Terrorist"
+
+2. kann nach belieben gegen unschuldige zivilisten aktiviert werden
+das ist wie wenn wenn die schweizer armee vom waffenplatz aarau sprengstoff an schnellkassen in aarau platziert um notfalls "terroristen" in die luft sprengen zu können
 
 
