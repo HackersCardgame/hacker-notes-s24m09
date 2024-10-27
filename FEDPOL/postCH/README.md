@@ -37,7 +37,14 @@ dann kann man da nciht die verlängerung einstellen, weder auf webeseite noch au
 
 -> also das hiesse dass auftragskillerteam mit dem snipergewehr hat zugzwang, bis dann und dann am briefkasten, so etwas wie der film phoneboot, nur dass ich kein täter sondern ein Zeuge bin
 
+dann hören sagen
+[FORK] urs blum hat den post app developern gesagt marc jr sei ein drogenterrorist
+[FORK] die [DELETED] <- interaktiv, haben zugriff auf mein neuralink, somit SDR nachbarschaft und VORSATZ und planung
 
+-----------------
+Sun Oct 27 04:26:20 AM CET 2024
+d0dfd0d2fe82490ce945e36bea640fe880e277d3
+-----------------
 
 
 Sun Oct 27 04:13:48 AM CET 2024
