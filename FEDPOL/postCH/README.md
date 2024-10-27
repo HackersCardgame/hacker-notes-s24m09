@@ -31,5 +31,7 @@ also das ist eine statemachine software wo interativ dann kokainsüchtige offizi
 
 also wieder etwas wie der TriggerDUKE
 
+dann weiterer loop: jemand hat eine biowaffe auf den zettel mit dem qr-code im briefkasten geschmiert
+
 
 
